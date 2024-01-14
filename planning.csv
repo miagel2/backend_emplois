@@ -1,306 +1,704 @@
 ﻿Jour;Durée (h);Début;Fin;Activité;Salles;Enseignants;Code;Type;Formations
-Mardi 12/09/2023;01h30;11h10;12h40;Sensibilisation a la transition ecologique;G AMPHI E (180*) Bat. Allais;LEONARD Christian;4E3MISTE;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
-Mardi 12/09/2023;01h30;13h30;15h00;Algebre S3;G AMPHI F (180*) Bat. Allais;MILLER Luc;4E3MF303;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
-Mardi 12/09/2023;02h00;15h40;17h40;Analyse et Probas S3;G AMPHI F (180*) Bat. Allais;ROBERTO Cyril;4E3MF301;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths, TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique
-Mercredi 13/09/2023;01h30;11h10;12h40;Sensibilisation a la transition ecologique;G AMPHI E (180*) Bat. Allais;LEONARD Christian;4E3MISTE;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
-Jeudi 14/09/2023;01h30;09h00;10h30;Sensibilisation a la transition ecologique;G AMPHI E (180*) Bat. Allais;LEONARD Christian;4E3MISTE;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
-Vendredi 15/09/2023;02h00;10h40;12h40;Algorithmique et programmation S3;G AMPHI D (180*) Bat. Allais;DELBOT Francois;4E3MF304;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
-Lundi 18/09/2023;02h00;08h30;10h30;G01 - Analyse et Probas S3;G 512 (45*-TB) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD10 - DL Gestion-Informatique
+Mardi 12/09/2023;01h30;08h30;10h00;Harmonisation S1;G AMPHI G (180*) Bat. Allais;HANEN Claire;4E1MF103;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info
+Mardi 12/09/2023;02h30;10h20;12h50;TD09 - Harmonisation S1;G 413B (45*-TB-V) Bat. Allais;DOBYINSKY Sylvia;4E1MF103;TD;TD09 - DL Economie-Maths
+Mardi 12/09/2023;02h30;10h20;12h50;TD10 - Harmonisation S1;G 413A (45*-TB-V) Bat. Allais;FARAUD Gabriel;4E1MF103;TD;TD10 - DL Gestion-Info
+Mardi 12/09/2023;02h30;11h00;13h30;TD06 - Harmonisation S1;G 511 (45*-TB-V) Bat. Allais;HANEN Claire;4E1MF103;TD;TD06 - MIASHS + Bessières Maths
+Mardi 12/09/2023;02h30;13h00;15h30;TD08 - Harmonisation S1;G 414 (40*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF103;TD;TD08 - MIASHS (et Oui, si)
+Mardi 12/09/2023;02h30;15h00;17h30;TD07 - Harmonisation S1;G 511 (45*-TB-V) Bat. Allais;HANEN Claire;4E1MF103;TD;TD07 - MIASHS
+Mercredi 13/09/2023;02h30;09h00;11h30;TD08 - Harmonisation S1;G 414 (40*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF103;TD;TD08 - MIASHS (et Oui, si)
+Mercredi 13/09/2023;02h30;10h00;12h30;TD06 - Harmonisation S1;G 511 (45*-TB-V) Bat. Allais;HANEN Claire;4E1MF103;TD;TD06 - MIASHS + Bessières Maths
+Mercredi 13/09/2023;02h00;13h30;15h30;Harmonisation S1;G AMPHI G (180*) Bat. Allais;DOBYINSKY Sylvia;4E1MF103;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info
+Mercredi 13/09/2023;02h30;15h40;18h10;TD07 - Harmonisation S1;G 511 (45*-TB-V) Bat. Allais;HANEN Claire;4E1MF103;TD;TD07 - MIASHS
+Mercredi 13/09/2023;02h30;15h40;18h10;TD09 - Harmonisation S1;G 413B (45*-TB-V) Bat. Allais;DOBYINSKY Sylvia;4E1MF103;TD;TD09 - DL Economie-Maths
+Jeudi 14/09/2023;01h30;10h10;11h40;Harmonisation S1;G AMPHI G (180*) Bat. Allais;DOBYINSKY Sylvia;4E1MF103;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info
+Jeudi 14/09/2023;02h30;13h30;16h00;TD07 - Harmonisation S1;G 511 (45*-TB-V) Bat. Allais;HANEN Claire;4E1MF103;TD;TD07 - MIASHS
+Jeudi 14/09/2023;02h30;13h30;16h00;TD08 - Harmonisation S1;G 414 (40*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF103;TD;TD08 - MIASHS (et Oui, si)
+Jeudi 14/09/2023;02h30;13h30;16h00;TD09 - Harmonisation S1;G 413B (45*-TB-V) Bat. Allais;DOBYINSKY Sylvia;4E1MF103;TD;TD09 - DL Economie-Maths
+Jeudi 14/09/2023;03h10;13h30;16h40;TD10 - Harmonisation S1;G 413A (45*-TB-V) Bat. Allais;FARAUD Gabriel;4E1MF103;TD;TD10 - DL Gestion-Info
+Jeudi 14/09/2023;02h30;16h10;18h40;TD06 - Harmonisation S1;G 511 (45*-TB-V) Bat. Allais;HANEN Claire;4E1MF103;TD;TD06 - MIASHS + Bessières Maths
+Vendredi 15/09/2023;02h00;10h40;12h40;Harmonisation S1;G AMPHI G (180*) Bat. Allais;HANEN Claire;4E1MF103;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info
+Vendredi 15/09/2023;02h30;13h30;16h00;TD06 - Harmonisation S1;G 511 (45*-TB-V) Bat. Allais;HANEN Claire;4E1MF103;TD;TD06 - MIASHS + Bessières Maths
+Vendredi 15/09/2023;02h30;13h30;16h00;TD08 - Harmonisation S1;G 414 (40*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF103;TD;TD08 - MIASHS (et Oui, si)
+Vendredi 15/09/2023;03h10;13h30;16h40;TD10 - Harmonisation S1;G 413A (45*-TB-V) Bat. Allais;FARAUD Gabriel;4E1MF103;TD;TD10 - DL Gestion-Info
+Vendredi 15/09/2023;02h30;14h00;16h30;TD09 - Harmonisation S1;G 413B (45*-TB-V) Bat. Allais;DOBYINSKY Sylvia;4E1MF103;TD;TD09 - DL Economie-Maths
+Vendredi 15/09/2023;02h30;16h10;18h40;TD07 - Harmonisation S1;G 511 (45*-TB-V) Bat. Allais;HANEN Claire;4E1MF103;TD;TD07 - MIASHS
+Lundi 18/09/2023;02h00;10h40;12h40;TD08 - Harmonisation S1;G 310A (35*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF103;TD;TD08 - MIASHS (et Oui, si)
+Lundi 18/09/2023;02h30;10h40;13h10;TD10 - Harmonisation S1;G 410A (35*-TB-V) Bat. Allais;FARAUD Gabriel;4E1MF103;TD;TD10 - DL Gestion-Info
+Lundi 18/09/2023;01h30;13h30;15h00;Harmonisation S1;G AMPHI G (180*) Bat. Allais;HANEN Claire;4E1MF103;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info
+Lundi 18/09/2023;02h30;15h40;18h10;TD06 - Harmonisation S1;G 310A (35*-TB-V) Bat. Allais;HANEN Claire;4E1MF103;TD;TD06 - MIASHS + Bessières Maths
+Mardi 19/09/2023;02h00;08h30;10h30;TD09 - Harmonisation S1;G 413B (45*-TB-V) Bat. Allais;DOBYINSKY Sylvia;4E1MF103;TD;TD09 - DL Economie-Maths
+Mardi 19/09/2023;02h00;08h30;10h30;TD10 - Harmonisation S1;G 410A (35*-TB-V) Bat. Allais;FARAUD Gabriel;4E1MF103;TD;TD10 - DL Gestion-Info
+Mardi 19/09/2023;02h00;10h40;12h40;Mathématiques S1;G AMPHI G (180*) Bat. Allais;LAULIN Lucile;4E1MF101;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info
+Mardi 19/09/2023;01h30;13h30;15h00;Harmonisation S1;G AMPHI G (180*) Bat. Allais;DOBYINSKY Sylvia;4E1MF103;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info
+Mardi 19/09/2023;02h30;15h10;17h40;TD07 - Harmonisation S1;G 301/302 (50*-TB-V) Bat. Allais;HANEN Claire;4E1MF103;TD;TD07 - MIASHS
+Mardi 19/09/2023;02h00;15h40;17h40;TD08 - Harmonisation S1;G 410A (35*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF103;TD;TD08 - MIASHS (et Oui, si)
+Mercredi 20/09/2023;02h30;10h40;13h10;TD06 - Harmonisation S1;G 401/402 (60*-TB-V) Bat. Allais;HANEN Claire;4E1MF103;TD;TD06 - MIASHS + Bessières Maths
+Mercredi 20/09/2023;01h00;10h40;11h40;TD08 - Harmonisation S1;G 310A (35*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF103;TD;TD08 - MIASHS (et Oui, si)
+Mercredi 20/09/2023;03h00;10h40;13h40;TD09 - Harmonisation S1;G 301/302 (50*-TB-V) Bat. Allais;DOBYINSKY Sylvia;4E1MF103;TD;TD09 - DL Economie-Maths
+Mercredi 20/09/2023;02h30;14h00;16h30;TD07 - Harmonisation S1;G 410A (35*-TB-V) Bat. Allais;HANEN Claire;4E1MF103;TD;TD07 - MIASHS
+Jeudi 21/09/2023;02h30;10h40;13h10;TD07 - Harmonisation S1;G 401/402 (60*-TB-V) Bat. Allais;HANEN Claire;4E1MF103;TD;TD07 - MIASHS
+Jeudi 21/09/2023;02h30;13h30;16h00;TD08 - Harmonisation S1;G 410B (45*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF103;TD;TD08 - MIASHS (et Oui, si)
+Jeudi 21/09/2023;02h30;13h30;16h00;TD09 - Harmonisation S1;G 301/302 (50*-TB-V) Bat. Allais;DOBYINSKY Sylvia;4E1MF103;TD;TD09 - DL Economie-Maths
+Jeudi 21/09/2023;03h20;13h30;16h50;TD10 - Harmonisation S1;G 410A (35*-TB-V) Bat. Allais;FARAUD Gabriel;4E1MF103;TD;TD10 - DL Gestion-Info
+Jeudi 21/09/2023;02h30;14h00;16h30;TD06 - Harmonisation S1;G 401/402 (60*-TB-V) Bat. Allais;HANEN Claire;4E1MF103;TD;TD06 - MIASHS + Bessières Maths
+Vendredi 22/09/2023;02h00;08h30;10h30;Informatique S1;G AMPHI E (180*) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info, TD11 - Economie-Gestion CMI
+Vendredi 22/09/2023;02h30;10h40;13h10;TD07 - Harmonisation S1;G 410B (45*-TB-V) Bat. Allais;HANEN Claire;4E1MF103;TD;TD07 - MIASHS
+Vendredi 22/09/2023;02h30;13h30;16h00;TD09 - Harmonisation S1;G 301/302 (50*-TB-V) Bat. Allais;DOBYINSKY Sylvia;4E1MF103;TD;TD09 - DL Economie-Maths
+Vendredi 22/09/2023;03h20;13h30;16h50;TD10 - Harmonisation S1;G 412 (40*-TB-V) Bat. Allais;FARAUD Gabriel;4E1MF103;TD;TD10 - DL Gestion-Info
+Vendredi 22/09/2023;02h30;14h00;16h30;TD06 - Harmonisation S1;G 410B (45*-TB-V) Bat. Allais;HANEN Claire;4E1MF103;TD;TD06 - MIASHS + Bessières Maths
+Vendredi 22/09/2023;02h30;15h40;18h10;TD08 - Harmonisation S1;G 101/102 (55*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF103;TD;TD08 - MIASHS (et Oui, si)
+Lundi 25/09/2023;02h00;10h40;12h40;TD07 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;DJEBBARA Kamel;4E1MF102;TD;TD07 - MIASHS
+Lundi 25/09/2023;02h00;10h40;12h40;TD06 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;TORRI Niccolo;4E1MF101;TD;TD06 - MIASHS + Bessières Maths
+Lundi 25/09/2023;02h00;10h40;12h40;TD08 - Mathématiques S1;G 403 (35*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF101;TD;TD08 - MIASHS (et Oui, si)
+Lundi 25/09/2023;02h00;13h30;15h30;TD11 - Informatique S1;G 413B (45*-TB-V) Bat. Allais;HANEN Claire;4E1MF102;TD;TD11 - Economie-Gestion CMI
+Lundi 25/09/2023;02h00;13h30;15h30;TD07 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;BARKI Ali;4E1MF101;TD;TD07 - MIASHS
+Lundi 25/09/2023;02h00;15h40;17h40;TD06 - Informatique S1;G 410A (35*-TB-V) Bat. Allais;HANEN Claire;4E1MF102;TD;TD06 - MIASHS + Bessières Maths
+Mardi 26/09/2023;02h00;08h30;10h30;TD06 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;TORRI Niccolo;4E1MF101;TD;TD06 - MIASHS + Bessières Maths
+Mardi 26/09/2023;02h00;10h40;12h40;TD11 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD11 - Economie-Gestion CMI
+Mardi 26/09/2023;02h00;10h40;12h40;Mathématiques S1;G AMPHI G (180*) Bat. Allais;LAULIN Lucile;4E1MF101;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info
+Mardi 26/09/2023;02h00;13h30;15h30;TD06 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD06 - MIASHS + Bessières Maths
+Mardi 26/09/2023;02h00;13h30;15h30;TD09 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;LAULIN Lucile;4E1MF101;TD;TD09 - DL Economie-Maths
+Mercredi 27/09/2023;02h00;10h40;12h40;TD08 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;HANEN Claire;4E1MF102;TD;TD08 - MIASHS (et Oui, si)
+Mercredi 27/09/2023;02h00;10h40;12h40;TD07 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;BARKI Ali;4E1MF101;TD;TD07 - MIASHS
+Mercredi 27/09/2023;02h00;13h30;15h30;TD07 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;KMIMECH Hichem;4E1MF102;TD;TD07 - MIASHS, TD11 - Economie-Gestion CMI
+Mercredi 27/09/2023;02h00;13h30;15h30;TD10 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;XIAO Yijun;4E1MF101;TD;TD10 - DL Gestion-Info
+Jeudi 28/09/2023;02h00;08h30;10h30;TD08 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;NGANSO YONGOUA Erick;4E1MF102;TD;TD08 - MIASHS (et Oui, si)
+Jeudi 28/09/2023;02h00;10h40;12h40;TD10 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;NGANSO YONGOUA Erick;4E1MF102;TD;TD10 - DL Gestion-Info
+Jeudi 28/09/2023;02h00;10h40;12h40;TD09 - Mathématiques S1;G 512 (45*-TB) Bat. Allais;LAULIN Lucile;4E1MF101;TD;TD09 - DL Economie-Maths
+Jeudi 28/09/2023;02h00;13h30;15h30;TD09 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;CHERGUI Anis;4E1MF102;TD;TD09 - DL Economie-Maths
+Jeudi 28/09/2023;02h00;13h30;15h30;TD08 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF101;TD;TD08 - MIASHS (et Oui, si)
+Vendredi 29/09/2023;02h00;08h30;10h30;Informatique S1;G AMPHI E (180*) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info, TD11 - Economie-Gestion CMI
+Vendredi 29/09/2023;02h00;10h40;12h40;TD09 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD09 - DL Economie-Maths
+Vendredi 29/09/2023;02h00;10h40;12h40;TD10 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;XIAO Yijun;4E1MF101;TD;TD10 - DL Gestion-Info
+Vendredi 29/09/2023;02h00;13h30;15h30;TD10 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;KMIMECH Hichem;4E1MF102;TD;TD10 - DL Gestion-Info
+Lundi 02/10/2023;02h00;10h40;12h40;TD07 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;DJEBBARA Kamel;4E1MF102;TD;TD07 - MIASHS
+Lundi 02/10/2023;02h00;10h40;12h40;TD06 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;TORRI Niccolo;4E1MF101;TD;TD06 - MIASHS + Bessières Maths
+Lundi 02/10/2023;02h00;10h40;12h40;TD08 - Mathématiques S1;G 403 (35*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF101;TD;TD08 - MIASHS (et Oui, si)
+Lundi 02/10/2023;02h00;13h30;15h30;TD11 - Informatique S1;G 413B (45*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD11 - Economie-Gestion CMI
+Lundi 02/10/2023;02h00;13h30;15h30;TD07 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;BARKI Ali;4E1MF101;TD;TD07 - MIASHS
+Lundi 02/10/2023;02h00;15h40;17h40;TD06 - Informatique S1;G 410A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD06 - MIASHS + Bessières Maths
+Mardi 03/10/2023;02h00;08h30;10h30;TD06 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;TORRI Niccolo;4E1MF101;TD;TD06 - MIASHS + Bessières Maths
+Mardi 03/10/2023;02h00;10h40;12h40;TD11 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD11 - Economie-Gestion CMI
+Mardi 03/10/2023;02h00;10h40;12h40;Mathématiques S1;G AMPHI G (180*) Bat. Allais;LAULIN Lucile;4E1MF101;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info
+Mardi 03/10/2023;02h00;13h30;15h30;TD06 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD06 - MIASHS + Bessières Maths
+Mardi 03/10/2023;02h00;13h30;15h30;TD09 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;LAULIN Lucile;4E1MF101;TD;TD09 - DL Economie-Maths
+Mercredi 04/10/2023;02h00;10h40;12h40;TD08 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;HANEN Claire;4E1MF102;TD;TD08 - MIASHS (et Oui, si)
+Mercredi 04/10/2023;02h00;10h40;12h40;TD07 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;BARKI Ali;4E1MF101;TD;TD07 - MIASHS
+Mercredi 04/10/2023;02h00;13h30;15h30;TD07 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;KMIMECH Hichem;4E1MF102;TD;TD07 - MIASHS, TD11 - Economie-Gestion CMI
+Mercredi 04/10/2023;02h00;13h30;15h30;TD10 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;XIAO Yijun;4E1MF101;TD;TD10 - DL Gestion-Info
+Jeudi 05/10/2023;02h00;08h30;10h30;TD08 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;NGANSO YONGOUA Erick;4E1MF102;TD;TD08 - MIASHS (et Oui, si)
+Jeudi 05/10/2023;02h30;10h30;13h00;Atelier de Mathématique (initiation au calcul numérique);G 213C (30*-TB) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E1CI105;TD;TD11 - Economie-Gestion CMI
+Jeudi 05/10/2023;02h00;10h40;12h40;TD10 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;NGANSO YONGOUA Erick;4E1MF102;TD;TD10 - DL Gestion-Info
+Jeudi 05/10/2023;02h00;10h40;12h40;TD09 - Mathématiques S1;G 412 (40*-TB-V) Bat. Allais;LAULIN Lucile;4E1MF101;TD;TD09 - DL Economie-Maths
+Jeudi 05/10/2023;02h00;13h30;15h30;TD09 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;CHERGUI Anis;4E1MF102;TD;TD09 - DL Economie-Maths
+Jeudi 05/10/2023;02h00;13h30;15h30;TD08 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF101;TD;TD08 - MIASHS (et Oui, si)
+Vendredi 06/10/2023;02h00;08h30;10h30;Informatique S1;G AMPHI E (180*) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info, TD11 - Economie-Gestion CMI
+Vendredi 06/10/2023;02h00;10h40;12h40;TD09 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD09 - DL Economie-Maths
+Vendredi 06/10/2023;02h00;10h40;12h40;TD10 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;XIAO Yijun;4E1MF101;TD;TD10 - DL Gestion-Info
+Vendredi 06/10/2023;02h00;13h30;15h30;TD10 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;KMIMECH Hichem;4E1MF102;TD;TD10 - DL Gestion-Info
+Lundi 09/10/2023;02h00;10h40;12h40;TD07 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;DJEBBARA Kamel;4E1MF102;TD;TD07 - MIASHS
+Lundi 09/10/2023;02h00;10h40;12h40;TD06 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;TORRI Niccolo;4E1MF101;TD;TD06 - MIASHS + Bessières Maths
+Lundi 09/10/2023;02h00;10h40;12h40;TD08 - Mathématiques S1;G 403 (35*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF101;TD;TD08 - MIASHS (et Oui, si)
+Lundi 09/10/2023;02h00;13h30;15h30;TD11 - Informatique S1;G 413B (45*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD11 - Economie-Gestion CMI
+Lundi 09/10/2023;02h00;13h30;15h30;TD07 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;BARKI Ali;4E1MF101;TD;TD07 - MIASHS
+Lundi 09/10/2023;02h00;15h40;17h40;TD06 - Informatique S1;G 410A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD06 - MIASHS + Bessières Maths
+Mardi 10/10/2023;02h00;08h30;10h30;TD06 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;TORRI Niccolo;4E1MF101;TD;TD06 - MIASHS + Bessières Maths
+Mardi 10/10/2023;02h00;10h40;12h40;TD11 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD11 - Economie-Gestion CMI
+Mardi 10/10/2023;02h00;10h40;12h40;Mathématiques S1;G AMPHI G (180*) Bat. Allais;LAULIN Lucile;4E1MF101;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info
+Mardi 10/10/2023;02h00;13h30;15h30;TD06 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD06 - MIASHS + Bessières Maths
+Mardi 10/10/2023;02h00;13h30;15h30;TD09 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;LAULIN Lucile;4E1MF101;TD;TD09 - DL Economie-Maths
+Mercredi 11/10/2023;02h00;10h40;12h40;TD08 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;HANEN Claire;4E1MF102;TD;TD08 - MIASHS (et Oui, si)
+Mercredi 11/10/2023;02h00;10h40;12h40;TD07 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;BARKI Ali;4E1MF101;TD;TD07 - MIASHS
+Mercredi 11/10/2023;02h00;13h30;15h30;TD07 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;KMIMECH Hichem;4E1MF102;TD;TD07 - MIASHS, TD11 - Economie-Gestion CMI
+Mercredi 11/10/2023;02h00;13h30;15h30;TD10 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;XIAO Yijun;4E1MF101;TD;TD10 - DL Gestion-Info
+Jeudi 12/10/2023;02h00;08h30;10h30;TD08 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;NGANSO YONGOUA Erick;4E1MF102;TD;TD08 - MIASHS (et Oui, si)
+Jeudi 12/10/2023;02h30;10h30;13h00;Atelier de Mathématique (initiation au calcul numérique);G 213C (30*-TB) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E1CI105;TD;TD11 - Economie-Gestion CMI
+Jeudi 12/10/2023;02h00;10h40;12h40;TD10 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;NGANSO YONGOUA Erick;4E1MF102;TD;TD10 - DL Gestion-Info
+Jeudi 12/10/2023;02h00;10h40;12h40;TD09 - Mathématiques S1;G 512 (45*-TB) Bat. Allais;LAULIN Lucile;4E1MF101;TD;TD09 - DL Economie-Maths
+Jeudi 12/10/2023;02h00;13h30;15h30;TD09 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;CHERGUI Anis;4E1MF102;TD;TD09 - DL Economie-Maths
+Jeudi 12/10/2023;02h00;13h30;15h30;TD08 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF101;TD;TD08 - MIASHS (et Oui, si)
+Vendredi 13/10/2023;02h00;08h30;10h30;Informatique S1;G AMPHI E (180*) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info, TD11 - Economie-Gestion CMI
+Vendredi 13/10/2023;02h00;10h40;12h40;TD09 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD09 - DL Economie-Maths
+Vendredi 13/10/2023;02h00;10h40;12h40;TD10 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;XIAO Yijun;4E1MF101;TD;TD10 - DL Gestion-Info
+Vendredi 13/10/2023;02h00;13h30;15h30;TD10 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;KMIMECH Hichem;4E1MF102;TD;TD10 - DL Gestion-Info
+Lundi 16/10/2023;02h00;10h40;12h40;TD07 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;DJEBBARA Kamel;4E1MF102;TD;TD07 - MIASHS
+Lundi 16/10/2023;02h00;10h40;12h40;TD06 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;TORRI Niccolo;4E1MF101;TD;TD06 - MIASHS + Bessières Maths
+Lundi 16/10/2023;02h00;10h40;12h40;TD08 - Mathématiques S1;G 403 (35*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF101;TD;TD08 - MIASHS (et Oui, si)
+Lundi 16/10/2023;02h00;13h30;15h30;TD11 - Informatique S1;G 413B (45*-TB-V) Bat. Allais;HANEN Claire;4E1MF102;TD;TD11 - Economie-Gestion CMI
+Lundi 16/10/2023;02h00;13h30;15h30;TD07 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;BARKI Ali;4E1MF101;TD;TD07 - MIASHS
+Lundi 16/10/2023;02h00;15h40;17h40;TD06 - Informatique S1;G 410A (35*-TB-V) Bat. Allais;HANEN Claire;4E1MF102;TD;TD06 - MIASHS + Bessières Maths
+Mardi 17/10/2023;02h00;08h30;10h30;TD06 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;TORRI Niccolo;4E1MF101;TD;TD06 - MIASHS + Bessières Maths
+Mardi 17/10/2023;02h00;10h40;12h40;TD11 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD11 - Economie-Gestion CMI
+Mardi 17/10/2023;02h00;10h40;12h40;Mathématiques S1;G AMPHI G (180*) Bat. Allais;LAULIN Lucile;4E1MF101;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info
+Mardi 17/10/2023;02h00;13h30;15h30;TD06 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD06 - MIASHS + Bessières Maths
+Mardi 17/10/2023;02h00;13h30;15h30;TD09 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;LAULIN Lucile;4E1MF101;TD;TD09 - DL Economie-Maths
+Mercredi 18/10/2023;02h00;10h40;12h40;TD08 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;HANEN Claire;4E1MF102;TD;TD08 - MIASHS (et Oui, si)
+Mercredi 18/10/2023;02h00;10h40;12h40;TD07 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;BARKI Ali;4E1MF101;TD;TD07 - MIASHS
+Mercredi 18/10/2023;02h00;13h30;15h30;TD07 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;KMIMECH Hichem;4E1MF102;TD;TD07 - MIASHS, TD11 - Economie-Gestion CMI
+Mercredi 18/10/2023;02h00;13h30;15h30;TD10 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;XIAO Yijun;4E1MF101;TD;TD10 - DL Gestion-Info
+Jeudi 19/10/2023;02h00;08h30;10h30;TD08 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;NGANSO YONGOUA Erick;4E1MF102;TD;TD08 - MIASHS (et Oui, si)
+Jeudi 19/10/2023;02h30;10h30;13h00;Atelier de Mathématique (initiation au calcul numérique);G 213C (30*-TB) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E1CI105;TD;TD11 - Economie-Gestion CMI
+Jeudi 19/10/2023;02h00;10h40;12h40;TD10 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;NGANSO YONGOUA Erick;4E1MF102;TD;TD10 - DL Gestion-Info
+Jeudi 19/10/2023;02h00;10h40;12h40;TD09 - Mathématiques S1;G 512 (45*-TB) Bat. Allais;LAULIN Lucile;4E1MF101;TD;TD09 - DL Economie-Maths
+Jeudi 19/10/2023;02h00;13h30;15h30;TD09 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;CHERGUI Anis;4E1MF102;TD;TD09 - DL Economie-Maths
+Jeudi 19/10/2023;02h00;13h30;15h30;TD08 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF101;TD;TD08 - MIASHS (et Oui, si)
+Vendredi 20/10/2023;02h00;08h30;10h30;Informatique S1;G AMPHI E (180*) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info, TD11 - Economie-Gestion CMI
+Vendredi 20/10/2023;02h00;10h40;12h40;TD09 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD09 - DL Economie-Maths
+Vendredi 20/10/2023;02h00;10h40;12h40;TD10 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;XIAO Yijun;4E1MF101;TD;TD10 - DL Gestion-Info
+Vendredi 20/10/2023;02h00;13h30;15h30;TD10 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;KMIMECH Hichem;4E1MF102;TD;TD10 - DL Gestion-Info
+Lundi 23/10/2023;02h00;10h40;12h40;TD07 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;DJEBBARA Kamel;4E1MF102;TD;TD07 - MIASHS
+Lundi 23/10/2023;02h00;10h40;12h40;TD06 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;TORRI Niccolo;4E1MF101;TD;TD06 - MIASHS + Bessières Maths
+Lundi 23/10/2023;02h00;10h40;12h40;TD08 - Mathématiques S1;G 403 (35*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF101;TD;TD08 - MIASHS (et Oui, si)
+Lundi 23/10/2023;02h00;13h30;15h30;TD11 - Informatique S1;G 413B (45*-TB-V) Bat. Allais;HANEN Claire;4E1MF102;TD;TD11 - Economie-Gestion CMI
+Lundi 23/10/2023;02h00;13h30;15h30;TD07 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;BARKI Ali;4E1MF101;TD;TD07 - MIASHS
+Lundi 23/10/2023;02h00;15h40;17h40;TD06 - Informatique S1;G 410A (35*-TB-V) Bat. Allais;HANEN Claire;4E1MF102;TD;TD06 - MIASHS + Bessières Maths
+Mardi 24/10/2023;02h00;08h30;10h30;TD06 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;TORRI Niccolo;4E1MF101;TD;TD06 - MIASHS + Bessières Maths
+Mardi 24/10/2023;02h00;10h40;12h40;TD11 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD11 - Economie-Gestion CMI
+Mardi 24/10/2023;02h00;10h40;12h40;Mathématiques S1;G AMPHI G (180*) Bat. Allais;LAULIN Lucile;4E1MF101;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info
+Mardi 24/10/2023;02h00;13h30;15h30;TD06 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD06 - MIASHS + Bessières Maths
+Mardi 24/10/2023;02h00;13h30;15h30;TD09 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;LAULIN Lucile;4E1MF101;TD;TD09 - DL Economie-Maths
+Mercredi 25/10/2023;02h00;10h40;12h40;TD08 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;HANEN Claire;4E1MF102;TD;TD08 - MIASHS (et Oui, si)
+Mercredi 25/10/2023;02h00;10h40;12h40;TD07 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;BARKI Ali;4E1MF101;TD;TD07 - MIASHS
+Mercredi 25/10/2023;02h00;13h30;15h30;TD07 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;KMIMECH Hichem;4E1MF102;TD;TD07 - MIASHS, TD11 - Economie-Gestion CMI
+Mercredi 25/10/2023;02h00;13h30;15h30;TD10 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;XIAO Yijun;4E1MF101;TD;TD10 - DL Gestion-Info
+Jeudi 26/10/2023;02h00;08h30;10h30;TD08 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;NGANSO YONGOUA Erick;4E1MF102;TD;TD08 - MIASHS (et Oui, si)
+Jeudi 26/10/2023;02h00;10h40;12h40;TD10 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;NGANSO YONGOUA Erick;4E1MF102;TD;TD10 - DL Gestion-Info
+Jeudi 26/10/2023;02h00;10h40;12h40;TD09 - Mathématiques S1;G 512 (45*-TB) Bat. Allais;LAULIN Lucile;4E1MF101;TD;TD09 - DL Economie-Maths
+Jeudi 26/10/2023;02h00;13h30;15h30;TD09 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;CHERGUI Anis;4E1MF102;TD;TD09 - DL Economie-Maths
+Jeudi 26/10/2023;02h00;13h30;15h30;TD08 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF101;TD;TD08 - MIASHS (et Oui, si)
+Vendredi 27/10/2023;02h00;08h30;10h30;Informatique S1;G AMPHI E (180*) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info, TD11 - Economie-Gestion CMI
+Vendredi 27/10/2023;02h00;10h40;12h40;TD09 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD09 - DL Economie-Maths
+Vendredi 27/10/2023;02h00;10h40;12h40;TD10 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;XIAO Yijun;4E1MF101;TD;TD10 - DL Gestion-Info
+Vendredi 27/10/2023;02h00;13h30;15h30;TD10 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;KMIMECH Hichem;4E1MF102;TD;TD10 - DL Gestion-Info
+Lundi 06/11/2023;02h00;10h40;12h40;TD07 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;DJEBBARA Kamel;4E1MF102;TD;TD07 - MIASHS
+Lundi 06/11/2023;02h00;10h40;12h40;TD06 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;TORRI Niccolo;4E1MF101;TD;TD06 - MIASHS + Bessières Maths
+Lundi 06/11/2023;02h00;10h40;12h40;TD08 - Mathématiques S1;G 403 (35*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF101;TD;TD08 - MIASHS (et Oui, si)
+Lundi 06/11/2023;02h00;13h30;15h30;TD11 - Informatique S1;G 413B (45*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD11 - Economie-Gestion CMI
+Lundi 06/11/2023;02h00;13h30;15h30;TD07 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;BARKI Ali;4E1MF101;TD;TD07 - MIASHS
+Lundi 06/11/2023;02h00;15h40;17h40;TD06 - Informatique S1;G 410A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD06 - MIASHS + Bessières Maths
+Mardi 07/11/2023;02h00;08h30;10h30;Mathématiques S1;G AMPHI G (180*) Bat. Allais;LAULIN Lucile;4E1MF101;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info
+Mardi 07/11/2023;02h00;10h40;12h40;TD11 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD11 - Economie-Gestion CMI
+Mardi 07/11/2023;02h00;10h40;12h40;Mathématiques S1;G AMPHI G (180*) Bat. Allais;LAULIN Lucile;4E1MF101;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info
+Mardi 07/11/2023;02h00;13h30;15h30;TD06 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD06 - MIASHS + Bessières Maths
+Mardi 07/11/2023;02h00;13h30;15h30;TD09 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;LAULIN Lucile;4E1MF101;TD;TD09 - DL Economie-Maths
+Mercredi 08/11/2023;02h00;10h40;12h40;TD08 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;HANEN Claire;4E1MF102;TD;TD08 - MIASHS (et Oui, si)
+Mercredi 08/11/2023;02h00;10h40;12h40;TD06 - Mathématiques S1;G 413B (45*-TB-V) Bat. Allais;TORRI Niccolo;4E1MF101;TD;TD06 - MIASHS + Bessières Maths
+Mercredi 08/11/2023;02h00;10h40;12h40;TD07 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;BARKI Ali;4E1MF101;TD;TD07 - MIASHS
+Mercredi 08/11/2023;02h00;13h30;15h30;TD07 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;KMIMECH Hichem;4E1MF102;TD;TD07 - MIASHS, TD11 - Economie-Gestion CMI
+Mercredi 08/11/2023;02h00;13h30;15h30;TD09 - Mathématiques S1;G 107 (30*-TB-V) Bat. Allais;LAULIN Lucile;4E1MF101;TD;TD09 - DL Economie-Maths
+Mercredi 08/11/2023;02h00;13h30;15h30;TD10 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;XIAO Yijun;4E1MF101;TD;TD10 - DL Gestion-Info
+Jeudi 09/11/2023;02h00;08h30;10h30;TD08 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;NGANSO YONGOUA Erick;4E1MF102;TD;TD08 - MIASHS (et Oui, si)
+Jeudi 09/11/2023;02h00;10h40;12h40;TD10 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;NGANSO YONGOUA Erick;4E1MF102;TD;TD10 - DL Gestion-Info
+Jeudi 09/11/2023;02h00;10h40;12h40;TD09 - Mathématiques S1;G 512 (45*-TB) Bat. Allais;LAULIN Lucile;4E1MF101;TD;TD09 - DL Economie-Maths
+Jeudi 09/11/2023;02h00;13h30;15h30;TD09 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;CHERGUI Anis;4E1MF102;TD;TD09 - DL Economie-Maths
+Jeudi 09/11/2023;02h00;13h30;15h30;TD08 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF101;TD;TD08 - MIASHS (et Oui, si)
+Vendredi 10/11/2023;02h00;08h30;10h30;Informatique S1;G AMPHI A (1000*) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info, TD11 - Economie-Gestion CMI
+Vendredi 10/11/2023;02h00;10h40;12h40;TD09 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD09 - DL Economie-Maths
+Vendredi 10/11/2023;02h00;10h40;12h40;TD10 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;XIAO Yijun;4E1MF101;TD;TD10 - DL Gestion-Info
+Vendredi 10/11/2023;02h00;13h30;15h30;TD10 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;KMIMECH Hichem;4E1MF102;TD;TD10 - DL Gestion-Info
+Lundi 13/11/2023;02h00;10h40;12h40;TD07 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;DJEBBARA Kamel;4E1MF102;TD;TD07 - MIASHS
+Lundi 13/11/2023;02h00;10h40;12h40;TD06 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;TORRI Niccolo;4E1MF101;TD;TD06 - MIASHS + Bessières Maths
+Lundi 13/11/2023;02h00;10h40;12h40;TD08 - Mathématiques S1;G 403 (35*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF101;TD;TD08 - MIASHS (et Oui, si)
+Lundi 13/11/2023;02h00;13h30;15h30;TD11 - Informatique S1;G 413B (45*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD11 - Economie-Gestion CMI
+Lundi 13/11/2023;02h00;13h30;15h30;TD07 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;BARKI Ali;4E1MF101;TD;TD07 - MIASHS
+Lundi 13/11/2023;02h00;15h40;17h40;TD06 - Informatique S1;G 410A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD06 - MIASHS + Bessières Maths
+Mardi 14/11/2023;02h00;10h40;12h40;TD11 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD11 - Economie-Gestion CMI
+Mardi 14/11/2023;02h00;10h40;12h40;TD06 - Mathématiques S1;G 511 (45*-TB-V) Bat. Allais;TORRI Niccolo;4E1MF101;TD;TD06 - MIASHS + Bessières Maths
+Mardi 14/11/2023;02h00;13h30;15h30;TD06 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD06 - MIASHS + Bessières Maths
+Mercredi 15/11/2023;02h00;10h40;12h40;TD08 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;HANEN Claire;4E1MF102;TD;TD08 - MIASHS (et Oui, si)
+Mercredi 15/11/2023;02h00;10h40;12h40;TD07 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;BARKI Ali;4E1MF101;TD;TD07 - MIASHS
+Mercredi 15/11/2023;02h00;13h30;15h30;TD07 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;KMIMECH Hichem;4E1MF102;TD;TD07 - MIASHS, TD11 - Economie-Gestion CMI
+Mercredi 15/11/2023;02h00;13h30;15h30;TD10 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;XIAO Yijun;4E1MF101;TD;TD10 - DL Gestion-Info
+Jeudi 16/11/2023;02h00;08h30;10h30;TD08 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;NGANSO YONGOUA Erick;4E1MF102;TD;TD08 - MIASHS (et Oui, si)
+Jeudi 16/11/2023;02h00;10h40;12h40;TD10 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;NGANSO YONGOUA Erick;4E1MF102;TD;TD10 - DL Gestion-Info
+Jeudi 16/11/2023;02h00;13h30;15h30;TD09 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;CHERGUI Anis;4E1MF102;TD;TD09 - DL Economie-Maths
+Jeudi 16/11/2023;02h00;13h30;15h30;TD08 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF101;TD;TD08 - MIASHS (et Oui, si)
+Vendredi 17/11/2023;02h00;08h30;10h30;Informatique S1;G AMPHI E (180*) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info, TD11 - Economie-Gestion CMI
+Vendredi 17/11/2023;02h00;10h40;12h40;TD09 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD09 - DL Economie-Maths
+Vendredi 17/11/2023;02h00;10h40;12h40;TD10 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;XIAO Yijun;4E1MF101;TD;TD10 - DL Gestion-Info
+Vendredi 17/11/2023;02h00;13h30;15h30;TD10 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;KMIMECH Hichem;4E1MF102;TD;TD10 - DL Gestion-Info
+Lundi 20/11/2023;02h00;10h40;12h40;TD07 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;DJEBBARA Kamel;4E1MF102;TD;TD07 - MIASHS
+Lundi 20/11/2023;02h00;10h40;12h40;TD06 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;TORRI Niccolo;4E1MF101;TD;TD06 - MIASHS + Bessières Maths
+Lundi 20/11/2023;02h00;10h40;12h40;TD08 - Mathématiques S1;G 403 (35*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF101;TD;TD08 - MIASHS (et Oui, si)
+Lundi 20/11/2023;02h00;13h30;15h30;TD11 - Informatique S1;G 413B (45*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD11 - Economie-Gestion CMI
+Lundi 20/11/2023;02h00;13h30;15h30;TD07 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;BARKI Ali;4E1MF101;TD;TD07 - MIASHS
+Lundi 20/11/2023;02h00;15h40;17h40;TD06 - Informatique S1;G 410A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD06 - MIASHS + Bessières Maths
+Mardi 21/11/2023;02h00;08h30;10h30;TD06 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;TORRI Niccolo;4E1MF101;TD;TD06 - MIASHS + Bessières Maths
+Mardi 21/11/2023;02h00;10h40;12h40;TD11 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD11 - Economie-Gestion CMI
+Mardi 21/11/2023;02h00;10h40;12h40;Mathématiques S1;G AMPHI G (180*) Bat. Allais;LAULIN Lucile;4E1MF101;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info
+Mardi 21/11/2023;02h00;13h30;15h30;TD06 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD06 - MIASHS + Bessières Maths
+Mardi 21/11/2023;02h00;13h30;15h30;TD09 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;LAULIN Lucile;4E1MF101;TD;TD09 - DL Economie-Maths
+Mercredi 22/11/2023;02h00;10h40;12h40;TD08 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;HANEN Claire;4E1MF102;TD;TD08 - MIASHS (et Oui, si)
+Mercredi 22/11/2023;02h00;10h40;12h40;TD07 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;BARKI Ali;4E1MF101;TD;TD07 - MIASHS
+Mercredi 22/11/2023;02h00;13h30;15h30;TD07 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;KMIMECH Hichem;4E1MF102;TD;TD07 - MIASHS, TD11 - Economie-Gestion CMI
+Mercredi 22/11/2023;02h00;13h30;15h30;TD10 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;XIAO Yijun;4E1MF101;TD;TD10 - DL Gestion-Info
+Jeudi 23/11/2023;02h00;08h30;10h30;TD08 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;NGANSO YONGOUA Erick;4E1MF102;TD;TD08 - MIASHS (et Oui, si)
+Jeudi 23/11/2023;02h00;10h40;12h40;TD10 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;NGANSO YONGOUA Erick;4E1MF102;TD;TD10 - DL Gestion-Info
+Jeudi 23/11/2023;02h00;10h40;12h40;TD09 - Mathématiques S1;G 512 (45*-TB) Bat. Allais;LAULIN Lucile;4E1MF101;TD;TD09 - DL Economie-Maths
+Jeudi 23/11/2023;02h00;13h30;15h30;TD09 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;CHERGUI Anis;4E1MF102;TD;TD09 - DL Economie-Maths
+Jeudi 23/11/2023;02h00;13h30;15h30;TD08 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF101;TD;TD08 - MIASHS (et Oui, si)
+Vendredi 24/11/2023;02h00;08h30;10h30;Informatique S1;G AMPHI E (180*) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info, TD11 - Economie-Gestion CMI
+Vendredi 24/11/2023;02h00;10h40;12h40;TD09 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD09 - DL Economie-Maths
+Vendredi 24/11/2023;02h00;10h40;12h40;TD10 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;XIAO Yijun;4E1MF101;TD;TD10 - DL Gestion-Info
+Vendredi 24/11/2023;02h00;13h30;15h30;TD10 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;KMIMECH Hichem;4E1MF102;TD;TD10 - DL Gestion-Info
+Vendredi 24/11/2023;02h00;13h30;15h30;TD09 - Mathématiques S1;G 503 (40*-TB-V) Bat. Allais;LAULIN Lucile;4E1MF101;TD;TD09 - DL Economie-Maths
+Lundi 27/11/2023;02h00;10h40;12h40;TD07 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;DJEBBARA Kamel;4E1MF102;TD;TD07 - MIASHS
+Lundi 27/11/2023;02h00;10h40;12h40;TD06 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;TORRI Niccolo;4E1MF101;TD;TD06 - MIASHS + Bessières Maths
+Lundi 27/11/2023;02h00;10h40;12h40;TD08 - Mathématiques S1;G 403 (35*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF101;TD;TD08 - MIASHS (et Oui, si)
+Lundi 27/11/2023;02h00;13h30;15h30;TD11 - Informatique S1;G 413B (45*-TB-V) Bat. Allais;HANEN Claire;4E1MF102;TD;TD11 - Economie-Gestion CMI
+Lundi 27/11/2023;02h00;13h30;15h30;TD07 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;BARKI Ali;4E1MF101;TD;TD07 - MIASHS
+Lundi 27/11/2023;02h00;15h40;17h40;TD06 - Informatique S1;G 410A (35*-TB-V) Bat. Allais;HANEN Claire;4E1MF102;TD;TD06 - MIASHS + Bessières Maths
+Mardi 28/11/2023;02h00;08h30;10h30;TD06 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;TORRI Niccolo;4E1MF101;TD;TD06 - MIASHS + Bessières Maths
+Mardi 28/11/2023;02h00;10h40;12h40;TD11 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD11 - Economie-Gestion CMI
+Mardi 28/11/2023;02h00;10h40;12h40;Mathématiques S1;G AMPHI G (180*) Bat. Allais;LAULIN Lucile;4E1MF101;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info
+Mardi 28/11/2023;02h00;13h30;15h30;TD06 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD06 - MIASHS + Bessières Maths
+Mardi 28/11/2023;02h00;13h30;15h30;TD09 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;LAULIN Lucile;4E1MF101;TD;TD09 - DL Economie-Maths
+Mercredi 29/11/2023;02h00;10h40;12h40;TD08 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;HANEN Claire;4E1MF102;TD;TD08 - MIASHS (et Oui, si)
+Mercredi 29/11/2023;02h00;10h40;12h40;TD07 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;BARKI Ali;4E1MF101;TD;TD07 - MIASHS
+Mercredi 29/11/2023;02h00;13h30;15h30;TD07 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;KMIMECH Hichem;4E1MF102;TD;TD07 - MIASHS, TD11 - Economie-Gestion CMI
+Mercredi 29/11/2023;02h00;13h30;15h30;TD10 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;XIAO Yijun;4E1MF101;TD;TD10 - DL Gestion-Info
+Jeudi 30/11/2023;02h00;08h30;10h30;TD08 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;NGANSO YONGOUA Erick;4E1MF102;TD;TD08 - MIASHS (et Oui, si)
+Jeudi 30/11/2023;02h00;10h40;12h40;TD10 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;NGANSO YONGOUA Erick;4E1MF102;TD;TD10 - DL Gestion-Info
+Jeudi 30/11/2023;02h00;10h40;12h40;TD09 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;LAULIN Lucile;4E1MF101;TD;TD09 - DL Economie-Maths
+Jeudi 30/11/2023;02h00;13h30;15h30;TD09 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;CHERGUI Anis;4E1MF102;TD;TD09 - DL Economie-Maths
+Jeudi 30/11/2023;02h00;13h30;15h30;TD08 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF101;TD;TD08 - MIASHS (et Oui, si)
+Vendredi 01/12/2023;02h00;08h30;10h30;Informatique S1;G AMPHI A (1000*) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;CM;TD06 - MIASHS + Bessières Maths, TD07 - MIASHS, TD08 - MIASHS (et Oui, si), TD09 - DL Economie-Maths, TD10 - DL Gestion-Info, TD11 - Economie-Gestion CMI
+Vendredi 01/12/2023;02h00;10h40;12h40;TD09 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD09 - DL Economie-Maths
+Vendredi 01/12/2023;02h00;10h40;12h40;TD10 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;XIAO Yijun;4E1MF101;TD;TD10 - DL Gestion-Info
+Vendredi 01/12/2023;02h00;13h30;15h30;TD10 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;KMIMECH Hichem;4E1MF102;TD;TD10 - DL Gestion-Info
+Lundi 11/12/2023;02h00;10h40;12h40;TD07 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;DJEBBARA Kamel;4E1MF102;TD;TD07 - MIASHS
+Lundi 11/12/2023;02h00;10h40;12h40;TD06 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;TORRI Niccolo;4E1MF101;TD;TD06 - MIASHS + Bessières Maths
+Lundi 11/12/2023;02h00;10h40;12h40;TD08 - Mathématiques S1;G 403 (35*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF101;TD;TD08 - MIASHS (et Oui, si)
+Lundi 11/12/2023;02h00;13h30;15h30;TD11 - Informatique S1;G 413B (45*-TB-V) Bat. Allais;HANEN Claire;4E1MF102;TD;TD11 - Economie-Gestion CMI
+Lundi 11/12/2023;02h00;13h30;15h30;TD07 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;BARKI Ali;4E1MF101;TD;TD07 - MIASHS
+Lundi 11/12/2023;02h00;15h40;17h40;TD06 - Informatique S1;G 410A (35*-TB-V) Bat. Allais;HANEN Claire;4E1MF102;TD;TD06 - MIASHS + Bessières Maths
+Mardi 12/12/2023;02h00;10h40;12h40;TD11 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD11 - Economie-Gestion CMI
+Mardi 12/12/2023;02h00;13h30;15h30;TD06 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD06 - MIASHS + Bessières Maths
+Mardi 12/12/2023;02h00;13h30;15h30;TD09 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;LAULIN Lucile;4E1MF101;TD;TD09 - DL Economie-Maths
+Mercredi 13/12/2023;02h00;08h30;10h30;TD06 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;TORRI Niccolo;4E1MF101;TD;TD06 - MIASHS + Bessières Maths
+Mercredi 13/12/2023;02h00;10h40;12h40;TD08 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;HANEN Claire;4E1MF102;TD;TD08 - MIASHS (et Oui, si)
+Mercredi 13/12/2023;02h00;10h40;12h40;TD07 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;BARKI Ali;4E1MF101;TD;TD07 - MIASHS
+Mercredi 13/12/2023;02h00;13h30;15h30;TD07 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;KMIMECH Hichem;4E1MF102;TD;TD07 - MIASHS, TD11 - Economie-Gestion CMI
+Mercredi 13/12/2023;02h00;13h30;15h30;TD10 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;XIAO Yijun;4E1MF101;TD;TD10 - DL Gestion-Info
+Jeudi 14/12/2023;02h00;08h30;10h30;TD08 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;NGANSO YONGOUA Erick;4E1MF102;TD;TD08 - MIASHS (et Oui, si)
+Jeudi 14/12/2023;02h00;10h40;12h40;TD10 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;NGANSO YONGOUA Erick;4E1MF102;TD;TD10 - DL Gestion-Info
+Jeudi 14/12/2023;02h00;10h40;12h40;TD09 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;LAULIN Lucile;4E1MF101;TD;TD09 - DL Economie-Maths
+Jeudi 14/12/2023;02h00;13h30;15h30;TD09 - Informatique S1;G 310A (35*-TB-V) Bat. Allais;CHERGUI Anis;4E1MF102;TD;TD09 - DL Economie-Maths
+Jeudi 14/12/2023;02h00;13h30;15h30;TD08 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;RAUWEL Nicolas;4E1MF101;TD;TD08 - MIASHS (et Oui, si)
+Vendredi 15/12/2023;02h00;10h40;12h40;TD09 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;GERVAIS Marie-Pierre;4E1MF102;TD;TD09 - DL Economie-Maths
+Vendredi 15/12/2023;02h00;10h40;12h40;TD10 - Mathématiques S1;G 410A (35*-TB-V) Bat. Allais;XIAO Yijun;4E1MF101;TD;TD10 - DL Gestion-Info
+Vendredi 15/12/2023;02h00;13h30;15h30;TD10 - Informatique S1;G 213A (35*-TB-V) Bat. Allais;KMIMECH Hichem;4E1MF102;TD;TD10 - DL Gestion-Info
+Mardi 12/09/2023;01h30;11h10;12h40;Sensibilisation à la transition écologique;G AMPHI E (180*) Bat. Allais;LEONARD Christian;4E3MISTE;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
+Mardi 12/09/2023;01h30;13h30;15h00;Algèbre S3;G AMPHI F (180*) Bat. Allais;MILLER Luc;4E3MF303;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
+Mardi 12/09/2023;02h00;15h40;17h40;Analyse et Probas S3;G AMPHI F (180*) Bat. Allais;ROBERTO Cyril;4E3MF301;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths, TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique
+Mercredi 13/09/2023;01h30;11h10;12h40;Sensibilisation à la transition écologique;G AMPHI E (180*) Bat. Allais;LEONARD Christian;4E3MISTE;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
+Jeudi 14/09/2023;01h30;09h00;10h30;Sensibilisation à la transition écologique;G AMPHI E (180*) Bat. Allais;LEONARD Christian;4E3MISTE;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
+Vendredi 15/09/2023;02h00;10h40;12h40;Algorithmique et programmation S3;G AMPHI D (180*) Bat. Allais;DELBOT Francois;4E3MF304;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
+Lundi 18/09/2023;02h00;08h30;10h30;G01 - Analyse et Probas S3;G 512 (45*-TB) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD10 - DL Gestion-Informatique
 Lundi 18/09/2023;01h30;10h40;12h10;G04 - Algorithmique et programmation S3;G 213A (35*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MF304;TD;
-Lundi 18/09/2023;01h30;10h40;12h10;G01 - Algebre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres
-Lundi 18/09/2023;02h00;10h40;12h40;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL economie-Maths
+Lundi 18/09/2023;01h30;10h40;12h10;G01 - Algèbre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquées) + Bessières
+Lundi 18/09/2023;02h00;10h40;12h40;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL Économie-Maths
 Lundi 18/09/2023;01h30;12h20;13h50;G04 - Algorithmique et programmation S3;G 213A (35*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MF304;TD;
-Lundi 18/09/2023;01h30;13h30;15h00;Algebre S3;G 110 (80*-TB-V) Bat. Allais;MILLER Luc;4E3MF303;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
-Lundi 18/09/2023;02h00;15h40;17h40;Analyse et Probas S3;G AMPHI D (180*) Bat. Allais;ROBERTO Cyril;4E3MF301;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths, TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique
+Lundi 18/09/2023;01h30;13h30;15h00;Algèbre S3;G 110 (80*-TB-V) Bat. Allais;MILLER Luc;4E3MF303;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
+Lundi 18/09/2023;02h00;15h40;17h40;Analyse et Probas S3;G AMPHI D (180*) Bat. Allais;ROBERTO Cyril;4E3MF301;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths, TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique
 Mardi 19/09/2023;01h30;10h10;11h40;G03 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;BOUQUET Valentin;4E3MF304;TD;TD08 - MIASHS parcours MIAGE
 Mardi 19/09/2023;02h00;10h40;12h40;G04 - Analyse et Probas S3;G 412 (40*-TB-V) Bat. Allais;BARRET Florent;4E3MF301;TD;
-Mardi 19/09/2023;01h30;11h10;12h40;G01 - Algebre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres
-Mardi 19/09/2023;02h00;11h10;13h10;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL economie-Maths
+Mardi 19/09/2023;01h30;11h10;12h40;G01 - Algèbre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquées) + Bessières
+Mardi 19/09/2023;02h00;11h10;13h10;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL Économie-Maths
 Mardi 19/09/2023;01h30;11h50;13h20;G03 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;BOUQUET Valentin;4E3MF304;TD;TD08 - MIASHS parcours MIAGE
-Mardi 19/09/2023;02h00;13h30;15h30;G01 - Analyse et Probas S3;G 109 (30*-TB-V) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD10 - DL Gestion-Informatique
-Mardi 19/09/2023;01h30;15h40;17h10;G02 - Algebre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL economie-Maths
-Mercredi 20/09/2023;01h30;11h10;12h40;Sensibilisation a la transition ecologique;G AMPHI E (180*) Bat. Allais;LEONARD Christian;4E3MISTE;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
-Mercredi 20/09/2023;01h30;13h30;15h00;G02 - Algebre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL economie-Maths
+Mardi 19/09/2023;02h00;13h30;15h30;G01 - Analyse et Probas S3;G 109 (30*-TB-V) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD10 - DL Gestion-Informatique
+Mardi 19/09/2023;01h30;15h40;17h10;G02 - Algèbre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL Économie-Maths
+Mercredi 20/09/2023;01h30;11h10;12h40;Sensibilisation à la transition écologique;G AMPHI E (180*) Bat. Allais;LEONARD Christian;4E3MISTE;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
+Mercredi 20/09/2023;01h30;13h30;15h00;G02 - Algèbre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL Économie-Maths
 Jeudi 21/09/2023;02h00;08h30;10h30;OS utilisateur;G 110 (80*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MC305;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE
-Jeudi 21/09/2023;01h30;09h00;10h30;Sensibilisation a la transition ecologique;G AMPHI E (180*) Bat. Allais;LEONARD Christian;4E3MISTE;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
+Jeudi 21/09/2023;01h30;09h00;10h30;Sensibilisation à la transition écologique;G AMPHI E (180*) Bat. Allais;LEONARD Christian;4E3MISTE;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
 Jeudi 21/09/2023;01h30;10h40;12h10;Introduction BD;G AMPHI E (180*) Bat. Allais;SAADAOUI Sonia;4E3MF302;CM;OG3 MIASHS
-Jeudi 21/09/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;N 16 (36*) Bat. Ephemere 2;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
-Jeudi 21/09/2023;02h00;13h30;15h30;G01 - Introduction BD;G 213C (30*-TB) Bat. Allais;SAADAOUI Sonia;4E3MF302;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
+Jeudi 21/09/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;N 16 (36*) Bat. Ephémère 2;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
+Jeudi 21/09/2023;02h00;13h30;15h30;G01 - Introduction BD;G 213C (30*-TB) Bat. Allais;SAADAOUI Sonia;4E3MF302;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
 Jeudi 21/09/2023;02h00;13h30;15h30;G02 - OS utilisateur;G 201 (30*-LINUX-TB-V) Bat. Allais;ANANI Thibault;4E3MC305;TD;
 Jeudi 21/09/2023;02h00;15h40;17h40;G04 - Analyse et Probas S3;G 204 (25*-TB-V) Bat. Allais;BARRET Florent;4E3MF301;TD;
 Jeudi 21/09/2023;02h00;15h40;17h40;G03 - OS utilisateur;G 201 (30*-LINUX-TB-V) Bat. Allais;ANANI Thibault;4E3MC305;TD;TD08 - MIASHS parcours MIAGE
-Vendredi 22/09/2023;02h00;10h40;12h40;Algorithmique et programmation S3;G AMPHI D (180*) Bat. Allais;DELBOT Francois;4E3MF304;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
+Vendredi 22/09/2023;02h00;10h40;12h40;Algorithmique et programmation S3;G AMPHI D (180*) Bat. Allais;DELBOT Francois;4E3MF304;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
 Vendredi 22/09/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;G 409 (30*-TB-V) Bat. Allais;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
-Vendredi 22/09/2023;01h30;14h00;15h30;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
-Vendredi 22/09/2023;01h30;15h40;17h10;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
-Lundi 25/09/2023;02h00;08h30;10h30;G01 - Analyse et Probas S3;G 512 (45*-TB) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD10 - DL Gestion-Informatique
+Vendredi 22/09/2023;01h30;14h00;15h30;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
+Vendredi 22/09/2023;01h30;15h40;17h10;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
+Lundi 25/09/2023;02h00;08h30;10h30;G01 - Analyse et Probas S3;G 512 (45*-TB) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD10 - DL Gestion-Informatique
 Lundi 25/09/2023;01h30;10h40;12h10;G04 - Algorithmique et programmation S3;G 213A (35*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MF304;TD;
-Lundi 25/09/2023;01h30;10h40;12h10;G01 - Algebre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres
-Lundi 25/09/2023;02h00;10h40;12h40;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL economie-Maths
+Lundi 25/09/2023;01h30;10h40;12h10;G01 - Algèbre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquées) + Bessières
+Lundi 25/09/2023;02h00;10h40;12h40;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL Économie-Maths
 Lundi 25/09/2023;01h30;12h20;13h50;G04 - Algorithmique et programmation S3;G 213A (35*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MF304;TD;
-Lundi 25/09/2023;01h30;13h30;15h00;Algebre S3;G 110 (80*-TB-V) Bat. Allais;MILLER Luc;4E3MF303;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
+Lundi 25/09/2023;01h30;13h30;15h00;Algèbre S3;G 110 (80*-TB-V) Bat. Allais;MILLER Luc;4E3MF303;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
 Lundi 25/09/2023;02h00;13h30;15h30;G03 - Introduction BD;G 213C (30*-TB) Bat. Allais;NAFI Mohammed;4E3MF302;TD;TD08 - MIASHS parcours MIAGE
-Lundi 25/09/2023;02h00;15h40;17h40;Analyse et Probas S3;G AMPHI D (180*) Bat. Allais;ROBERTO Cyril;4E3MF301;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths, TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique
+Lundi 25/09/2023;02h00;15h40;17h40;Analyse et Probas S3;G AMPHI D (180*) Bat. Allais;ROBERTO Cyril;4E3MF301;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths, TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique
 Mardi 26/09/2023;01h30;10h10;11h40;G03 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;BOUQUET Valentin;4E3MF304;TD;TD08 - MIASHS parcours MIAGE
 Mardi 26/09/2023;02h00;10h40;12h40;G04 - Analyse et Probas S3;G 412 (40*-TB-V) Bat. Allais;BARRET Florent;4E3MF301;TD;
-Mardi 26/09/2023;01h30;11h10;12h40;G01 - Algebre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres
-Mardi 26/09/2023;02h00;11h10;13h10;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL economie-Maths
+Mardi 26/09/2023;01h30;11h10;12h40;G01 - Algèbre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquées) + Bessières
+Mardi 26/09/2023;02h00;11h10;13h10;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL Économie-Maths
 Mardi 26/09/2023;01h30;11h50;13h20;G03 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;BOUQUET Valentin;4E3MF304;TD;TD08 - MIASHS parcours MIAGE
-Mardi 26/09/2023;02h00;13h30;15h30;G01 - Analyse et Probas S3;G 109 (30*-TB-V) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD10 - DL Gestion-Informatique
-Mardi 26/09/2023;01h30;15h40;17h10;G02 - Algebre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL economie-Maths
-Mercredi 27/09/2023;02h00;11h20;13h20;G01 - Introduction BD;G 213C (30*-TB) Bat. Allais;KMIMECH Hichem;4E3MF302;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
-Mercredi 27/09/2023;01h30;15h40;17h10;G02 - Algebre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL economie-Maths
+Mardi 26/09/2023;02h00;13h30;15h30;G01 - Analyse et Probas S3;G 109 (30*-TB-V) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD10 - DL Gestion-Informatique
+Mardi 26/09/2023;01h30;15h40;17h10;G02 - Algèbre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL Économie-Maths
+Mercredi 27/09/2023;02h00;11h20;13h20;G01 - Introduction BD;G 213C (30*-TB) Bat. Allais;KMIMECH Hichem;4E3MF302;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
+Mercredi 27/09/2023;01h30;15h40;17h10;G02 - Algèbre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL Économie-Maths
 Jeudi 28/09/2023;02h00;08h30;10h30;OS utilisateur;G 110 (80*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MC305;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE
 Jeudi 28/09/2023;01h30;10h40;12h10;Introduction BD;G AMPHI E (180*) Bat. Allais;SAADAOUI Sonia;4E3MF302;CM;OG3 MIASHS
-Jeudi 28/09/2023;01h30;12h20;13h50;Sensibilisation a la transition ecologique;G AMPHI E (180*) Bat. Allais;LEONARD Christian;4E3MISTE;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
-Jeudi 28/09/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;N 16 (36*) Bat. Ephemere 2;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
+Jeudi 28/09/2023;01h30;12h20;13h50;Sensibilisation à la transition écologique;G AMPHI E (180*) Bat. Allais;LEONARD Christian;4E3MISTE;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
+Jeudi 28/09/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;N 16 (36*) Bat. Ephémère 2;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
 Jeudi 28/09/2023;02h00;13h30;15h30;G02 - OS utilisateur;G 201 (30*-LINUX-TB-V) Bat. Allais;ANANI Thibault;4E3MC305;TD;
 Jeudi 28/09/2023;02h00;15h40;17h40;G04 - Analyse et Probas S3;G 204 (25*-TB-V) Bat. Allais;BARRET Florent;4E3MF301;TD;
 Jeudi 28/09/2023;02h00;15h40;17h40;G03 - OS utilisateur;G 201 (30*-LINUX-TB-V) Bat. Allais;ANANI Thibault;4E3MC305;TD;TD08 - MIASHS parcours MIAGE
-Vendredi 29/09/2023;02h00;10h40;12h40;Algorithmique et programmation S3;G AMPHI D (180*) Bat. Allais;DELBOT Francois;4E3MF304;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
+Vendredi 29/09/2023;02h00;10h40;12h40;Algorithmique et programmation S3;G AMPHI D (180*) Bat. Allais;DELBOT Francois;4E3MF304;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
 Vendredi 29/09/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;G 409 (30*-TB-V) Bat. Allais;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
-Vendredi 29/09/2023;01h30;14h00;15h30;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
-Vendredi 29/09/2023;01h30;15h40;17h10;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
-Lundi 02/10/2023;02h00;08h30;10h30;G01 - Analyse et Probas S3;G 512 (45*-TB) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD10 - DL Gestion-Informatique
+Vendredi 29/09/2023;01h30;14h00;15h30;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
+Vendredi 29/09/2023;01h30;15h40;17h10;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
+Lundi 02/10/2023;02h00;08h30;10h30;G01 - Analyse et Probas S3;G 512 (45*-TB) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD10 - DL Gestion-Informatique
 Lundi 02/10/2023;01h30;10h40;12h10;G04 - Algorithmique et programmation S3;G 213A (35*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MF304;TD;
-Lundi 02/10/2023;01h30;10h40;12h10;G01 - Algebre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres
-Lundi 02/10/2023;02h00;10h40;12h40;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL economie-Maths
+Lundi 02/10/2023;01h30;10h40;12h10;G01 - Algèbre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquées) + Bessières
+Lundi 02/10/2023;02h00;10h40;12h40;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL Économie-Maths
 Lundi 02/10/2023;01h30;12h20;13h50;G04 - Algorithmique et programmation S3;G 213A (35*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MF304;TD;
-Lundi 02/10/2023;01h30;13h30;15h00;Algebre S3;G 110 (80*-TB-V) Bat. Allais;MILLER Luc;4E3MF303;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
+Lundi 02/10/2023;01h30;13h30;15h00;Algèbre S3;G 110 (80*-TB-V) Bat. Allais;MILLER Luc;4E3MF303;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
 Lundi 02/10/2023;02h00;13h30;15h30;G03 - Introduction BD;G 213C (30*-TB) Bat. Allais;NAFI Mohammed;4E3MF302;TD;TD08 - MIASHS parcours MIAGE
-Lundi 02/10/2023;02h00;15h40;17h40;Analyse et Probas S3;G AMPHI D (180*) Bat. Allais;ROBERTO Cyril;4E3MF301;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths, TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique
+Lundi 02/10/2023;02h00;15h40;17h40;Analyse et Probas S3;G AMPHI D (180*) Bat. Allais;ROBERTO Cyril;4E3MF301;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths, TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique
 Mardi 03/10/2023;01h30;10h10;11h40;G03 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;BOUQUET Valentin;4E3MF304;TD;TD08 - MIASHS parcours MIAGE
 Mardi 03/10/2023;02h00;10h40;12h40;G04 - Analyse et Probas S3;G 412 (40*-TB-V) Bat. Allais;BARRET Florent;4E3MF301;TD;
-Mardi 03/10/2023;01h30;11h10;12h40;G01 - Algebre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres
-Mardi 03/10/2023;02h00;11h10;13h10;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL economie-Maths
+Mardi 03/10/2023;01h30;11h10;12h40;G01 - Algèbre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquées) + Bessières
+Mardi 03/10/2023;02h00;11h10;13h10;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL Économie-Maths
 Mardi 03/10/2023;01h30;11h50;13h20;G03 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;BOUQUET Valentin;4E3MF304;TD;TD08 - MIASHS parcours MIAGE
-Mardi 03/10/2023;02h00;13h30;15h30;G01 - Analyse et Probas S3;G 109 (30*-TB-V) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD10 - DL Gestion-Informatique
-Mardi 03/10/2023;01h30;15h40;17h10;G02 - Algebre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL economie-Maths
-Mercredi 04/10/2023;01h30;11h10;12h40;G02 - Algebre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL economie-Maths
+Mardi 03/10/2023;02h00;13h30;15h30;G01 - Analyse et Probas S3;G 109 (30*-TB-V) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD10 - DL Gestion-Informatique
+Mardi 03/10/2023;01h30;15h40;17h10;G02 - Algèbre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL Économie-Maths
+Mercredi 04/10/2023;01h30;11h10;12h40;G02 - Algèbre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL Économie-Maths
 Jeudi 05/10/2023;02h00;08h30;10h30;OS utilisateur;G 110 (80*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MC305;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE
 Jeudi 05/10/2023;01h30;10h40;12h10;Introduction BD;G AMPHI E (180*) Bat. Allais;KMIMECH Hichem;4E3MF302;CM;OG3 MIASHS
-Jeudi 05/10/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;N 16 (36*) Bat. Ephemere 2;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
-Jeudi 05/10/2023;02h00;13h30;15h30;G01 - Introduction BD;G 213C (30*-TB) Bat. Allais;KMIMECH Hichem;4E3MF302;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
+Jeudi 05/10/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;N 16 (36*) Bat. Ephémère 2;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
+Jeudi 05/10/2023;02h00;13h30;15h30;G01 - Introduction BD;G 213C (30*-TB) Bat. Allais;KMIMECH Hichem;4E3MF302;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
 Jeudi 05/10/2023;02h00;13h30;15h30;G02 - OS utilisateur;G 201 (30*-LINUX-TB-V) Bat. Allais;ANANI Thibault;4E3MC305;TD;
 Jeudi 05/10/2023;02h00;15h40;17h40;G04 - Analyse et Probas S3;G 204 (25*-TB-V) Bat. Allais;BARRET Florent;4E3MF301;TD;
 Jeudi 05/10/2023;02h00;15h40;17h40;G03 - OS utilisateur;G 201 (30*-LINUX-TB-V) Bat. Allais;ANANI Thibault;4E3MC305;TD;TD08 - MIASHS parcours MIAGE
-Vendredi 06/10/2023;02h00;10h40;12h40;Algorithmique et programmation S3;G AMPHI D (180*) Bat. Allais;DELBOT Francois;4E3MF304;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
+Vendredi 06/10/2023;02h00;10h40;12h40;Algorithmique et programmation S3;G AMPHI D (180*) Bat. Allais;DELBOT Francois;4E3MF304;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
 Vendredi 06/10/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;G 409 (30*-TB-V) Bat. Allais;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
-Vendredi 06/10/2023;01h30;14h00;15h30;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
-Vendredi 06/10/2023;01h30;15h40;17h10;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
-Lundi 09/10/2023;02h00;08h30;10h30;G01 - Analyse et Probas S3;G 512 (45*-TB) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD10 - DL Gestion-Informatique
+Vendredi 06/10/2023;01h30;14h00;15h30;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
+Vendredi 06/10/2023;01h30;15h40;17h10;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
+Lundi 09/10/2023;02h00;08h30;10h30;G01 - Analyse et Probas S3;G 512 (45*-TB) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD10 - DL Gestion-Informatique
 Lundi 09/10/2023;01h30;10h40;12h10;G04 - Algorithmique et programmation S3;G 213A (35*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MF304;TD;
-Lundi 09/10/2023;01h30;10h40;12h10;G01 - Algebre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres
-Lundi 09/10/2023;02h00;10h40;12h40;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL economie-Maths
+Lundi 09/10/2023;01h30;10h40;12h10;G01 - Algèbre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquées) + Bessières
+Lundi 09/10/2023;02h00;10h40;12h40;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL Économie-Maths
 Lundi 09/10/2023;01h30;12h20;13h50;G04 - Algorithmique et programmation S3;G 213A (35*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MF304;TD;
-Lundi 09/10/2023;01h30;13h30;15h00;Algebre S3;G 110 (80*-TB-V) Bat. Allais;MILLER Luc;4E3MF303;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
-Lundi 09/10/2023;02h00;13h30;15h30;G02 - Introduction BD;BFC 222 (35*) Bat. Formation Continue;ANGARITA AROCHA Rafael;4E3MF302;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
+Lundi 09/10/2023;01h30;13h30;15h00;Algèbre S3;G 110 (80*-TB-V) Bat. Allais;MILLER Luc;4E3MF303;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
+Lundi 09/10/2023;02h00;13h30;15h30;G02 - Introduction BD;BFC 222 (35*) Bat. Formation Continue;ANGARITA AROCHA Rafael;4E3MF302;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
 Lundi 09/10/2023;02h00;13h30;15h30;G03 - Introduction BD;G 213C (30*-TB) Bat. Allais;NAFI Mohammed;4E3MF302;TD;TD08 - MIASHS parcours MIAGE
-Lundi 09/10/2023;02h00;15h40;17h40;Analyse et Probas S3;G AMPHI D (180*) Bat. Allais;ROBERTO Cyril;4E3MF301;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths, TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique
+Lundi 09/10/2023;02h00;15h40;17h40;Analyse et Probas S3;G AMPHI D (180*) Bat. Allais;ROBERTO Cyril;4E3MF301;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths, TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique
 Mardi 10/10/2023;01h30;10h10;11h40;G03 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;BOUQUET Valentin;4E3MF304;TD;TD08 - MIASHS parcours MIAGE
 Mardi 10/10/2023;02h00;10h40;12h40;G04 - Analyse et Probas S3;G 412 (40*-TB-V) Bat. Allais;BARRET Florent;4E3MF301;TD;
-Mardi 10/10/2023;01h30;11h10;12h40;G01 - Algebre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres
-Mardi 10/10/2023;02h00;11h10;13h10;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL economie-Maths
+Mardi 10/10/2023;01h30;11h10;12h40;G01 - Algèbre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquées) + Bessières
+Mardi 10/10/2023;02h00;11h10;13h10;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL Économie-Maths
 Mardi 10/10/2023;01h30;11h50;13h20;G03 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;BOUQUET Valentin;4E3MF304;TD;TD08 - MIASHS parcours MIAGE
-Mardi 10/10/2023;02h00;13h30;15h30;G01 - Analyse et Probas S3;G 109 (30*-TB-V) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD10 - DL Gestion-Informatique
-Mardi 10/10/2023;01h30;15h40;17h10;G02 - Algebre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL economie-Maths
-Mercredi 11/10/2023;01h30;11h10;12h40;G02 - Algebre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL economie-Maths
+Mardi 10/10/2023;02h00;13h30;15h30;G01 - Analyse et Probas S3;G 109 (30*-TB-V) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD10 - DL Gestion-Informatique
+Mardi 10/10/2023;01h30;15h40;17h10;G02 - Algèbre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL Économie-Maths
+Mercredi 11/10/2023;01h30;11h10;12h40;G02 - Algèbre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL Économie-Maths
 Jeudi 12/10/2023;02h00;08h30;10h30;OS utilisateur;G 110 (80*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MC305;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE
 Jeudi 12/10/2023;01h30;10h40;12h10;Introduction BD;G AMPHI E (180*) Bat. Allais;KMIMECH Hichem;4E3MF302;CM;OG3 MIASHS
-Jeudi 12/10/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;N 16 (36*) Bat. Ephemere 2;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
-Jeudi 12/10/2023;02h00;13h30;15h30;G01 - Introduction BD;G 213C (30*-TB) Bat. Allais;KMIMECH Hichem;4E3MF302;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
+Jeudi 12/10/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;N 16 (36*) Bat. Ephémère 2;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
+Jeudi 12/10/2023;02h00;13h30;15h30;G01 - Introduction BD;G 213C (30*-TB) Bat. Allais;KMIMECH Hichem;4E3MF302;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
 Jeudi 12/10/2023;02h00;13h30;15h30;G02 - OS utilisateur;G 201 (30*-LINUX-TB-V) Bat. Allais;ANANI Thibault;4E3MC305;TD;
 Jeudi 12/10/2023;02h00;15h40;17h40;G04 - Analyse et Probas S3;G 204 (25*-TB-V) Bat. Allais;BARRET Florent;4E3MF301;TD;
 Jeudi 12/10/2023;02h00;15h40;17h40;G03 - OS utilisateur;G 201 (30*-LINUX-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MC305;TD;TD08 - MIASHS parcours MIAGE
-Vendredi 13/10/2023;02h00;10h40;12h40;Algorithmique et programmation S3;G AMPHI D (180*) Bat. Allais;DELBOT Francois;4E3MF304;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
+Vendredi 13/10/2023;02h00;10h40;12h40;Algorithmique et programmation S3;G AMPHI D (180*) Bat. Allais;DELBOT Francois;4E3MF304;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
 Vendredi 13/10/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;G 409 (30*-TB-V) Bat. Allais;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
-Vendredi 13/10/2023;01h30;14h00;15h30;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
-Vendredi 13/10/2023;01h30;15h40;17h10;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
-Lundi 16/10/2023;02h00;08h30;10h30;G01 - Analyse et Probas S3;G 512 (45*-TB) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD10 - DL Gestion-Informatique
+Vendredi 13/10/2023;01h30;14h00;15h30;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
+Vendredi 13/10/2023;01h30;15h40;17h10;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
+Lundi 16/10/2023;02h00;08h30;10h30;G01 - Analyse et Probas S3;G 512 (45*-TB) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD10 - DL Gestion-Informatique
 Lundi 16/10/2023;01h30;10h40;12h10;G04 - Algorithmique et programmation S3;G 213A (35*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MF304;TD;
-Lundi 16/10/2023;01h30;10h40;12h10;G01 - Algebre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres
-Lundi 16/10/2023;02h00;10h40;12h40;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL economie-Maths
+Lundi 16/10/2023;01h30;10h40;12h10;G01 - Algèbre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquées) + Bessières
+Lundi 16/10/2023;02h00;10h40;12h40;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL Économie-Maths
 Lundi 16/10/2023;01h30;12h20;13h50;G04 - Algorithmique et programmation S3;G 213A (35*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MF304;TD;
-Lundi 16/10/2023;01h30;13h30;15h00;Algebre S3;G 110 (80*-TB-V) Bat. Allais;MILLER Luc;4E3MF303;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
-Lundi 16/10/2023;02h00;13h30;15h30;G02 - Introduction BD;BFC 222 (35*) Bat. Formation Continue;ANANI Thibault;4E3MF302;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
+Lundi 16/10/2023;01h30;13h30;15h00;Algèbre S3;G 110 (80*-TB-V) Bat. Allais;MILLER Luc;4E3MF303;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
+Lundi 16/10/2023;02h00;13h30;15h30;G02 - Introduction BD;BFC 222 (35*) Bat. Formation Continue;ANANI Thibault;4E3MF302;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
 Lundi 16/10/2023;02h00;13h30;15h30;G03 - Introduction BD;G 213C (30*-TB) Bat. Allais;NAFI Mohammed;4E3MF302;TD;TD08 - MIASHS parcours MIAGE
-Lundi 16/10/2023;02h00;15h40;17h40;Analyse et Probas S3;G AMPHI D (180*) Bat. Allais;ROBERTO Cyril;4E3MF301;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths, TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique
+Lundi 16/10/2023;02h00;15h40;17h40;Analyse et Probas S3;G AMPHI D (180*) Bat. Allais;ROBERTO Cyril;4E3MF301;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths, TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique
 Mardi 17/10/2023;01h30;10h10;11h40;G03 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;BOUQUET Valentin;4E3MF304;TD;TD08 - MIASHS parcours MIAGE
 Mardi 17/10/2023;02h00;10h40;12h40;G04 - Analyse et Probas S3;G 412 (40*-TB-V) Bat. Allais;BARRET Florent;4E3MF301;TD;
-Mardi 17/10/2023;01h30;11h10;12h40;G01 - Algebre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres
-Mardi 17/10/2023;02h00;11h10;13h10;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL economie-Maths
+Mardi 17/10/2023;01h30;11h10;12h40;G01 - Algèbre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquées) + Bessières
+Mardi 17/10/2023;02h00;11h10;13h10;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL Économie-Maths
 Mardi 17/10/2023;01h30;11h50;13h20;G03 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;BOUQUET Valentin;4E3MF304;TD;TD08 - MIASHS parcours MIAGE
-Mardi 17/10/2023;02h00;13h30;15h30;G01 - Analyse et Probas S3;G 109 (30*-TB-V) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD10 - DL Gestion-Informatique
-Mardi 17/10/2023;01h30;15h40;17h10;G02 - Algebre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL economie-Maths
-Mercredi 18/10/2023;01h30;11h10;12h40;G02 - Algebre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL economie-Maths
+Mardi 17/10/2023;02h00;13h30;15h30;G01 - Analyse et Probas S3;G 109 (30*-TB-V) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD10 - DL Gestion-Informatique
+Mardi 17/10/2023;01h30;15h40;17h10;G02 - Algèbre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL Économie-Maths
+Mercredi 18/10/2023;01h30;11h10;12h40;G02 - Algèbre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL Économie-Maths
 Jeudi 19/10/2023;02h00;08h30;10h30;OS utilisateur;G 110 (80*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MC305;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE
 Jeudi 19/10/2023;01h30;10h40;12h10;Introduction BD;G AMPHI E (180*) Bat. Allais;KMIMECH Hichem;4E3MF302;CM;OG3 MIASHS
-Jeudi 19/10/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;N 16 (36*) Bat. Ephemere 2;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
-Jeudi 19/10/2023;02h00;13h30;15h30;G01 - Introduction BD;G 213C (30*-TB) Bat. Allais;KMIMECH Hichem;4E3MF302;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
+Jeudi 19/10/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;N 16 (36*) Bat. Ephémère 2;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
+Jeudi 19/10/2023;02h00;13h30;15h30;G01 - Introduction BD;G 213C (30*-TB) Bat. Allais;KMIMECH Hichem;4E3MF302;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
 Jeudi 19/10/2023;02h00;13h30;15h30;G02 - OS utilisateur;G 201 (30*-LINUX-TB-V) Bat. Allais;ANANI Thibault;4E3MC305;TD;
 Jeudi 19/10/2023;02h00;15h40;17h40;G04 - Analyse et Probas S3;G 108 (30*-TB-V) Bat. Allais;BARRET Florent;4E3MF301;TD;
 Jeudi 19/10/2023;02h00;15h40;17h40;G03 - OS utilisateur;G 201 (30*-LINUX-TB-V) Bat. Allais;ANANI Thibault;4E3MC305;TD;TD08 - MIASHS parcours MIAGE
-Vendredi 20/10/2023;02h00;10h40;12h40;Algorithmique et programmation S3;G AMPHI D (180*) Bat. Allais;DELBOT Francois;4E3MF304;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
+Vendredi 20/10/2023;02h00;10h40;12h40;Algorithmique et programmation S3;G AMPHI D (180*) Bat. Allais;DELBOT Francois;4E3MF304;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
 Vendredi 20/10/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;G 409 (30*-TB-V) Bat. Allais;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
-Vendredi 20/10/2023;01h30;14h00;15h30;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
-Vendredi 20/10/2023;01h30;15h40;17h10;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
-Lundi 23/10/2023;02h00;08h30;10h30;G01 - Analyse et Probas S3;G 512 (45*-TB) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD10 - DL Gestion-Informatique
+Vendredi 20/10/2023;01h30;14h00;15h30;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
+Vendredi 20/10/2023;01h30;15h40;17h10;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
+Lundi 23/10/2023;02h00;08h30;10h30;G01 - Analyse et Probas S3;G 512 (45*-TB) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD10 - DL Gestion-Informatique
 Lundi 23/10/2023;01h30;10h40;12h10;G04 - Algorithmique et programmation S3;G 213A (35*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MF304;TD;
-Lundi 23/10/2023;01h30;10h40;12h10;G01 - Algebre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres
-Lundi 23/10/2023;02h00;10h40;12h40;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL economie-Maths
+Lundi 23/10/2023;01h30;10h40;12h10;G01 - Algèbre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquées) + Bessières
+Lundi 23/10/2023;02h00;10h40;12h40;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL Économie-Maths
 Lundi 23/10/2023;01h30;12h20;13h50;G04 - Algorithmique et programmation S3;G 213A (35*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MF304;TD;
-Lundi 23/10/2023;01h30;13h30;15h00;Algebre S3;G 110 (80*-TB-V) Bat. Allais;MILLER Luc;4E3MF303;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
-Lundi 23/10/2023;02h00;13h30;15h30;G02 - Introduction BD;BFC 222 (35*) Bat. Formation Continue;ANANI Thibault;4E3MF302;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
+Lundi 23/10/2023;01h30;13h30;15h00;Algèbre S3;G 110 (80*-TB-V) Bat. Allais;MILLER Luc;4E3MF303;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
+Lundi 23/10/2023;02h00;13h30;15h30;G02 - Introduction BD;BFC 222 (35*) Bat. Formation Continue;ANANI Thibault;4E3MF302;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
 Lundi 23/10/2023;02h00;13h30;15h30;G03 - Introduction BD;G 213C (30*-TB) Bat. Allais;NAFI Mohammed;4E3MF302;TD;TD08 - MIASHS parcours MIAGE
-Lundi 23/10/2023;02h00;15h40;17h40;Analyse et Probas S3;G AMPHI D (180*) Bat. Allais;ROBERTO Cyril;4E3MF301;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths, TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique
+Lundi 23/10/2023;02h00;15h40;17h40;Analyse et Probas S3;G AMPHI D (180*) Bat. Allais;ROBERTO Cyril;4E3MF301;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths, TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique
 Mardi 24/10/2023;01h30;10h10;11h40;G03 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;BOUQUET Valentin;4E3MF304;TD;TD08 - MIASHS parcours MIAGE
 Mardi 24/10/2023;02h00;10h40;12h40;G04 - Analyse et Probas S3;G 412 (40*-TB-V) Bat. Allais;BARRET Florent;4E3MF301;TD;
-Mardi 24/10/2023;01h30;11h10;12h40;G01 - Algebre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres
-Mardi 24/10/2023;02h00;11h10;13h10;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL economie-Maths
+Mardi 24/10/2023;01h30;11h10;12h40;G01 - Algèbre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquées) + Bessières
+Mardi 24/10/2023;02h00;11h10;13h10;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL Économie-Maths
 Mardi 24/10/2023;01h30;11h50;13h20;G03 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;BOUQUET Valentin;4E3MF304;TD;TD08 - MIASHS parcours MIAGE
-Mardi 24/10/2023;02h00;13h30;15h30;G01 - Analyse et Probas S3;G 109 (30*-TB-V) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD10 - DL Gestion-Informatique
-Mardi 24/10/2023;01h30;15h40;17h10;G02 - Algebre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL economie-Maths
-Mercredi 25/10/2023;01h30;11h10;12h40;G02 - Algebre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL economie-Maths
+Mardi 24/10/2023;02h00;13h30;15h30;G01 - Analyse et Probas S3;G 109 (30*-TB-V) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD10 - DL Gestion-Informatique
+Mardi 24/10/2023;01h30;15h40;17h10;G02 - Algèbre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL Économie-Maths
+Mercredi 25/10/2023;01h30;11h10;12h40;G02 - Algèbre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL Économie-Maths
 Jeudi 26/10/2023;02h00;08h30;10h30;OS utilisateur;G 110 (80*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MC305;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE
 Jeudi 26/10/2023;01h30;10h40;12h10;Introduction BD;G AMPHI E (180*) Bat. Allais;KMIMECH Hichem;4E3MF302;CM;OG3 MIASHS
-Jeudi 26/10/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;N 16 (36*) Bat. Ephemere 2;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
-Jeudi 26/10/2023;02h00;13h30;15h30;G01 - Introduction BD;G 213C (30*-TB) Bat. Allais;KMIMECH Hichem;4E3MF302;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
+Jeudi 26/10/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;N 16 (36*) Bat. Ephémère 2;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
+Jeudi 26/10/2023;02h00;13h30;15h30;G01 - Introduction BD;G 213C (30*-TB) Bat. Allais;KMIMECH Hichem;4E3MF302;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
 Jeudi 26/10/2023;02h00;13h30;15h30;G02 - OS utilisateur;G 201 (30*-LINUX-TB-V) Bat. Allais;ANANI Thibault;4E3MC305;TD;
 Jeudi 26/10/2023;02h00;15h40;17h40;G04 - Analyse et Probas S3;G 204 (25*-TB-V) Bat. Allais;BARRET Florent;4E3MF301;TD;
 Jeudi 26/10/2023;02h00;15h40;17h40;G03 - OS utilisateur;G 201 (30*-LINUX-TB-V) Bat. Allais;ANANI Thibault;4E3MC305;TD;TD08 - MIASHS parcours MIAGE
-Vendredi 27/10/2023;02h00;10h40;12h40;Algorithmique et programmation S3;G AMPHI D (180*) Bat. Allais;DELBOT Francois;4E3MF304;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
+Vendredi 27/10/2023;02h00;10h40;12h40;Algorithmique et programmation S3;G AMPHI D (180*) Bat. Allais;DELBOT Francois;4E3MF304;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
 Vendredi 27/10/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;G AMPHI E (180*) Bat. Allais;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
-Vendredi 27/10/2023;01h30;14h00;15h30;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
-Vendredi 27/10/2023;01h30;15h40;17h10;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
-Lundi 06/11/2023;02h00;08h30;10h30;G01 - Analyse et Probas S3;G 512 (45*-TB) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD10 - DL Gestion-Informatique
+Vendredi 27/10/2023;01h30;14h00;15h30;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
+Vendredi 27/10/2023;01h30;15h40;17h10;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
+Lundi 06/11/2023;02h00;08h30;10h30;G01 - Analyse et Probas S3;G 512 (45*-TB) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD10 - DL Gestion-Informatique
 Lundi 06/11/2023;01h30;10h40;12h10;G04 - Algorithmique et programmation S3;G 214 (20*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MF304;TD;
-Lundi 06/11/2023;01h30;10h40;12h10;G01 - Algebre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres
-Lundi 06/11/2023;02h00;10h40;12h40;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL economie-Maths
+Lundi 06/11/2023;01h30;10h40;12h10;G01 - Algèbre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquées) + Bessières
+Lundi 06/11/2023;02h00;10h40;12h40;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL Économie-Maths
 Lundi 06/11/2023;01h30;12h20;13h50;G04 - Algorithmique et programmation S3;G 213A (35*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MF304;TD;
-Lundi 06/11/2023;01h30;13h30;15h00;Algebre S3;G 110 (80*-TB-V) Bat. Allais;MILLER Luc;4E3MF303;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
-Lundi 06/11/2023;02h00;13h30;15h30;G02 - Introduction BD;BFC 222 (35*) Bat. Formation Continue;ANANI Thibault;4E3MF302;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
+Lundi 06/11/2023;01h30;13h30;15h00;Algèbre S3;G 110 (80*-TB-V) Bat. Allais;MILLER Luc;4E3MF303;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
+Lundi 06/11/2023;02h00;13h30;15h30;G02 - Introduction BD;BFC 222 (35*) Bat. Formation Continue;ANANI Thibault;4E3MF302;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
 Lundi 06/11/2023;02h00;13h30;15h30;G03 - Introduction BD;G 213C (30*-TB) Bat. Allais;NAFI Mohammed;4E3MF302;TD;TD08 - MIASHS parcours MIAGE
-Lundi 06/11/2023;02h00;15h40;17h40;Analyse et Probas S3;G AMPHI D (180*) Bat. Allais;ROBERTO Cyril;4E3MF301;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths, TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique
+Lundi 06/11/2023;02h00;15h40;17h40;Analyse et Probas S3;G AMPHI D (180*) Bat. Allais;ROBERTO Cyril;4E3MF301;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths, TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique
 Mardi 07/11/2023;02h00;10h40;12h40;G04 - Analyse et Probas S3;G 412 (40*-TB-V) Bat. Allais;BARRET Florent;4E3MF301;TD;
-Mardi 07/11/2023;01h30;11h10;12h40;G01 - Algebre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres
-Mardi 07/11/2023;02h00;11h10;13h10;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL economie-Maths
-Mardi 07/11/2023;02h00;13h30;15h30;G01 - Analyse et Probas S3;G 109 (30*-TB-V) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD10 - DL Gestion-Informatique
-Mardi 07/11/2023;01h30;15h40;17h10;G02 - Algebre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL economie-Maths
-Mercredi 08/11/2023;01h30;11h10;12h40;G02 - Algebre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL economie-Maths
+Mardi 07/11/2023;01h30;11h10;12h40;G01 - Algèbre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquées) + Bessières
+Mardi 07/11/2023;02h00;11h10;13h10;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL Économie-Maths
+Mardi 07/11/2023;02h00;13h30;15h30;G01 - Analyse et Probas S3;G 109 (30*-TB-V) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD10 - DL Gestion-Informatique
+Mardi 07/11/2023;01h30;15h40;17h10;G02 - Algèbre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL Économie-Maths
+Mercredi 08/11/2023;01h30;11h10;12h40;G02 - Algèbre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL Économie-Maths
 Jeudi 09/11/2023;02h00;08h30;10h30;OS utilisateur;G 110 (80*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MC305;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE
 Jeudi 09/11/2023;01h30;10h40;12h10;Introduction BD;G AMPHI E (180*) Bat. Allais;KMIMECH Hichem;4E3MF302;CM;OG3 MIASHS
-Jeudi 09/11/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;N 16 (36*) Bat. Ephemere 2;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
-Jeudi 09/11/2023;02h00;13h30;15h30;G01 - Introduction BD;G 213C (30*-TB) Bat. Allais;KMIMECH Hichem;4E3MF302;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
+Jeudi 09/11/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;N 16 (36*) Bat. Ephémère 2;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
+Jeudi 09/11/2023;02h00;13h30;15h30;G01 - Introduction BD;G 213C (30*-TB) Bat. Allais;KMIMECH Hichem;4E3MF302;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
 Jeudi 09/11/2023;02h00;13h30;15h30;G02 - OS utilisateur;G 201 (30*-LINUX-TB-V) Bat. Allais;ANANI Thibault;4E3MC305;TD;
 Jeudi 09/11/2023;02h00;15h40;17h40;G04 - Analyse et Probas S3;G 204 (25*-TB-V) Bat. Allais;BARRET Florent;4E3MF301;TD;
 Jeudi 09/11/2023;02h00;15h40;17h40;G03 - OS utilisateur;G 201 (30*-LINUX-TB-V) Bat. Allais;ANANI Thibault;4E3MC305;TD;TD08 - MIASHS parcours MIAGE
-Vendredi 10/11/2023;02h00;10h40;12h40;Algorithmique et programmation S3;G AMPHI D (180*) Bat. Allais;DELBOT Francois;4E3MF304;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
+Vendredi 10/11/2023;02h00;10h40;12h40;Algorithmique et programmation S3;G AMPHI D (180*) Bat. Allais;DELBOT Francois;4E3MF304;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
 Vendredi 10/11/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;G 409 (30*-TB-V) Bat. Allais;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
-Vendredi 10/11/2023;01h30;14h00;15h30;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
-Vendredi 10/11/2023;01h30;15h40;17h10;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
-Lundi 13/11/2023;02h00;08h30;10h30;G01 - Analyse et Probas S3;G 512 (45*-TB) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD10 - DL Gestion-Informatique
+Vendredi 10/11/2023;01h30;14h00;15h30;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
+Vendredi 10/11/2023;01h30;15h40;17h10;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
+Lundi 13/11/2023;02h00;08h30;10h30;G01 - Analyse et Probas S3;G 512 (45*-TB) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD10 - DL Gestion-Informatique
 Lundi 13/11/2023;01h30;10h40;12h10;G04 - Algorithmique et programmation S3;G 214 (20*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MF304;TD;
-Lundi 13/11/2023;01h30;10h40;12h10;G01 - Algebre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres
-Lundi 13/11/2023;02h00;10h40;12h40;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL economie-Maths
+Lundi 13/11/2023;01h30;10h40;12h10;G01 - Algèbre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquées) + Bessières
+Lundi 13/11/2023;02h00;10h40;12h40;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL Économie-Maths
 Lundi 13/11/2023;01h30;12h20;13h50;G04 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MF304;TD;
-Lundi 13/11/2023;01h30;13h30;15h00;Algebre S3;G 110 (80*-TB-V) Bat. Allais;MILLER Luc;4E3MF303;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
-Lundi 13/11/2023;02h00;13h30;15h30;G02 - Introduction BD;BFC 222 (35*) Bat. Formation Continue;ANANI Thibault;4E3MF302;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
+Lundi 13/11/2023;01h30;13h30;15h00;Algèbre S3;G 110 (80*-TB-V) Bat. Allais;MILLER Luc;4E3MF303;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
+Lundi 13/11/2023;02h00;13h30;15h30;G02 - Introduction BD;BFC 222 (35*) Bat. Formation Continue;ANANI Thibault;4E3MF302;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
 Lundi 13/11/2023;02h00;13h30;15h30;G03 - Introduction BD;G 213C (30*-TB) Bat. Allais;NAFI Mohammed;4E3MF302;TD;TD08 - MIASHS parcours MIAGE
-Lundi 13/11/2023;02h00;15h40;17h40;Analyse et Probas S3;G AMPHI D (180*) Bat. Allais;ROBERTO Cyril;4E3MF301;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths, TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique
+Lundi 13/11/2023;02h00;15h40;17h40;Analyse et Probas S3;G AMPHI D (180*) Bat. Allais;ROBERTO Cyril;4E3MF301;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths, TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique
 Mardi 14/11/2023;01h30;10h10;11h40;G03 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;BOUQUET Valentin;4E3MF304;TD;TD08 - MIASHS parcours MIAGE
 Mardi 14/11/2023;02h00;10h40;12h40;G04 - Analyse et Probas S3;G 412 (40*-TB-V) Bat. Allais;BARRET Florent;4E3MF301;TD;
-Mardi 14/11/2023;01h30;11h10;12h40;G01 - Algebre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres
-Mardi 14/11/2023;02h00;11h10;13h10;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL economie-Maths
+Mardi 14/11/2023;01h30;11h10;12h40;G01 - Algèbre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquées) + Bessières
+Mardi 14/11/2023;02h00;11h10;13h10;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL Économie-Maths
 Mardi 14/11/2023;01h30;11h50;13h20;G03 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;BOUQUET Valentin;4E3MF304;TD;TD08 - MIASHS parcours MIAGE
-Mardi 14/11/2023;02h00;13h30;15h30;G01 - Analyse et Probas S3;G 109 (30*-TB-V) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD10 - DL Gestion-Informatique
-Mardi 14/11/2023;01h30;15h40;17h10;G02 - Algebre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL economie-Maths
-Mercredi 15/11/2023;01h30;11h10;12h40;G02 - Algebre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL economie-Maths
+Mardi 14/11/2023;02h00;13h30;15h30;G01 - Analyse et Probas S3;G 109 (30*-TB-V) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD10 - DL Gestion-Informatique
+Mardi 14/11/2023;01h30;15h40;17h10;G02 - Algèbre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL Économie-Maths
+Mercredi 15/11/2023;01h30;11h10;12h40;G02 - Algèbre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL Économie-Maths
 Jeudi 16/11/2023;02h00;08h30;10h30;OS utilisateur;G 110 (80*-TB-V) Bat. Allais;ANANI Thibault;4E3MC305;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE
 Jeudi 16/11/2023;01h30;10h40;12h10;Introduction BD;G AMPHI E (180*) Bat. Allais;KMIMECH Hichem;4E3MF302;CM;OG3 MIASHS
-Jeudi 16/11/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;N 16 (36*) Bat. Ephemere 2;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
-Jeudi 16/11/2023;02h00;13h30;15h30;G01 - Introduction BD;G 213C (30*-TB) Bat. Allais;KMIMECH Hichem;4E3MF302;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
+Jeudi 16/11/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;N 16 (36*) Bat. Ephémère 2;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
+Jeudi 16/11/2023;02h00;13h30;15h30;G01 - Introduction BD;G 213C (30*-TB) Bat. Allais;KMIMECH Hichem;4E3MF302;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
 Jeudi 16/11/2023;02h00;13h30;15h30;G02 - OS utilisateur;G 201 (30*-LINUX-TB-V) Bat. Allais;ANANI Thibault;4E3MC305;TD;
 Jeudi 16/11/2023;02h00;15h40;17h40;G04 - Analyse et Probas S3;G 204 (25*-TB-V) Bat. Allais;BARRET Florent;4E3MF301;TD;
 Jeudi 16/11/2023;02h00;15h40;17h40;G03 - OS utilisateur;G 201 (30*-LINUX-TB-V) Bat. Allais;ANANI Thibault;4E3MC305;TD;TD08 - MIASHS parcours MIAGE
-Vendredi 17/11/2023;02h00;10h40;12h40;Algorithmique et programmation S3;G AMPHI D (180*) Bat. Allais;DELBOT Francois;4E3MF304;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
+Vendredi 17/11/2023;02h00;10h40;12h40;Algorithmique et programmation S3;G AMPHI D (180*) Bat. Allais;DELBOT Francois;4E3MF304;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
 Vendredi 17/11/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;G 409 (30*-TB-V) Bat. Allais;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
-Vendredi 17/11/2023;01h30;14h00;15h30;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
-Vendredi 17/11/2023;01h30;15h40;17h10;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
-Lundi 20/11/2023;02h00;08h30;10h30;G01 - Analyse et Probas S3;G 512 (45*-TB) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD10 - DL Gestion-Informatique
+Vendredi 17/11/2023;01h30;14h00;15h30;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
+Vendredi 17/11/2023;01h30;15h40;17h10;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
+Lundi 20/11/2023;02h00;08h30;10h30;G01 - Analyse et Probas S3;G 512 (45*-TB) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD10 - DL Gestion-Informatique
 Lundi 20/11/2023;01h30;10h40;12h10;G04 - Algorithmique et programmation S3;G 214 (20*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MF304;TD;
-Lundi 20/11/2023;01h30;10h40;12h10;G01 - Algebre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres
-Lundi 20/11/2023;02h00;10h40;12h40;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL economie-Maths
+Lundi 20/11/2023;01h30;10h40;12h10;G01 - Algèbre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquées) + Bessières
+Lundi 20/11/2023;02h00;10h40;12h40;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL Économie-Maths
 Lundi 20/11/2023;01h30;12h20;13h50;G04 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MF304;TD;
-Lundi 20/11/2023;01h30;13h30;15h00;Algebre S3;G 110 (80*-TB-V) Bat. Allais;MILLER Luc;4E3MF303;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
-Lundi 20/11/2023;02h00;13h30;15h30;G02 - Introduction BD;BFC 222 (35*) Bat. Formation Continue;ANANI Thibault;4E3MF302;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
+Lundi 20/11/2023;01h30;13h30;15h00;Algèbre S3;G 110 (80*-TB-V) Bat. Allais;MILLER Luc;4E3MF303;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
+Lundi 20/11/2023;02h00;13h30;15h30;G02 - Introduction BD;BFC 222 (35*) Bat. Formation Continue;ANANI Thibault;4E3MF302;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
 Lundi 20/11/2023;02h00;13h30;15h30;G03 - Introduction BD;G 213C (30*-TB) Bat. Allais;NAFI Mohammed;4E3MF302;TD;TD08 - MIASHS parcours MIAGE
-Lundi 20/11/2023;02h00;15h40;17h40;Analyse et Probas S3;G AMPHI D (180*) Bat. Allais;ROBERTO Cyril;4E3MF301;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths, TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique
+Lundi 20/11/2023;02h00;15h40;17h40;Analyse et Probas S3;G AMPHI D (180*) Bat. Allais;ROBERTO Cyril;4E3MF301;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths, TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique
 Mardi 21/11/2023;01h30;10h10;11h40;G03 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;BOUQUET Valentin;4E3MF304;TD;TD08 - MIASHS parcours MIAGE
 Mardi 21/11/2023;02h00;10h40;12h40;G04 - Analyse et Probas S3;G 412 (40*-TB-V) Bat. Allais;BARRET Florent;4E3MF301;TD;
-Mardi 21/11/2023;01h30;11h10;12h40;G01 - Algebre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres
-Mardi 21/11/2023;02h00;11h10;13h10;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL economie-Maths
+Mardi 21/11/2023;01h30;11h10;12h40;G01 - Algèbre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquées) + Bessières
+Mardi 21/11/2023;02h00;11h10;13h10;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL Économie-Maths
 Mardi 21/11/2023;01h30;11h50;13h20;G03 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;BOUQUET Valentin;4E3MF304;TD;TD08 - MIASHS parcours MIAGE
-Mardi 21/11/2023;02h00;13h30;15h30;G01 - Analyse et Probas S3;G 109 (30*-TB-V) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD10 - DL Gestion-Informatique
+Mardi 21/11/2023;02h00;13h30;15h30;G01 - Analyse et Probas S3;G 109 (30*-TB-V) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD10 - DL Gestion-Informatique
 Mardi 21/11/2023;01h30;14h30;16h00;G03 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;BOUQUET Valentin;4E3MF304;TD;TD08 - MIASHS parcours MIAGE
-Mardi 21/11/2023;01h30;15h40;17h10;G02 - Algebre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL economie-Maths
+Mardi 21/11/2023;01h30;15h40;17h10;G02 - Algèbre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL Économie-Maths
 Mardi 21/11/2023;01h30;16h10;17h40;G03 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;BOUQUET Valentin;4E3MF304;TD;TD08 - MIASHS parcours MIAGE
-Mercredi 22/11/2023;01h30;11h10;12h40;G02 - Algebre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL economie-Maths
+Mercredi 22/11/2023;01h30;11h10;12h40;G02 - Algèbre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL Économie-Maths
 Jeudi 23/11/2023;02h00;08h30;10h30;OS utilisateur;G 110 (80*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MC305;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE
 Jeudi 23/11/2023;01h30;10h40;12h10;Introduction BD;G AMPHI E (180*) Bat. Allais;KMIMECH Hichem;4E3MF302;CM;OG3 MIASHS
-Jeudi 23/11/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;N 16 (36*) Bat. Ephemere 2;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
-Jeudi 23/11/2023;02h00;13h30;15h30;G01 - Introduction BD;G 213C (30*-TB) Bat. Allais;KMIMECH Hichem;4E3MF302;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
+Jeudi 23/11/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;N 16 (36*) Bat. Ephémère 2;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
+Jeudi 23/11/2023;02h00;13h30;15h30;G01 - Introduction BD;G 213C (30*-TB) Bat. Allais;KMIMECH Hichem;4E3MF302;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
 Jeudi 23/11/2023;02h00;13h30;15h30;G02 - OS utilisateur;G 201 (30*-LINUX-TB-V) Bat. Allais;ANANI Thibault;4E3MC305;TD;
 Jeudi 23/11/2023;02h00;15h40;17h40;G04 - Analyse et Probas S3;G 204 (25*-TB-V) Bat. Allais;BARRET Florent;4E3MF301;TD;
 Jeudi 23/11/2023;02h00;15h40;17h40;G03 - OS utilisateur;G 201 (30*-LINUX-TB-V) Bat. Allais;ANANI Thibault;4E3MC305;TD;TD08 - MIASHS parcours MIAGE
-Vendredi 24/11/2023;02h00;10h40;12h40;Algorithmique et programmation S3;G AMPHI D (180*) Bat. Allais;DELBOT Francois;4E3MF304;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
+Vendredi 24/11/2023;02h00;10h40;12h40;Algorithmique et programmation S3;G AMPHI D (180*) Bat. Allais;DELBOT Francois;4E3MF304;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
 Vendredi 24/11/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;G 409 (30*-TB-V) Bat. Allais;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
-Vendredi 24/11/2023;01h30;14h00;15h30;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
-Vendredi 24/11/2023;01h30;15h40;17h10;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
-Lundi 27/11/2023;02h00;08h30;10h30;G01 - Analyse et Probas S3;G 512 (45*-TB) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD10 - DL Gestion-Informatique
+Vendredi 24/11/2023;01h30;14h00;15h30;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
+Vendredi 24/11/2023;01h30;15h40;17h10;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
+Lundi 27/11/2023;02h00;08h30;10h30;G01 - Analyse et Probas S3;G 512 (45*-TB) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD10 - DL Gestion-Informatique
 Lundi 27/11/2023;01h30;10h40;12h10;G04 - Algorithmique et programmation S3;G 214 (20*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MF304;TD;
-Lundi 27/11/2023;01h30;10h40;12h10;G01 - Algebre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres
-Lundi 27/11/2023;02h00;10h40;12h40;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL economie-Maths
+Lundi 27/11/2023;01h30;10h40;12h10;G01 - Algèbre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquées) + Bessières
+Lundi 27/11/2023;02h00;10h40;12h40;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL Économie-Maths
 Lundi 27/11/2023;01h30;12h20;13h50;G04 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MF304;TD;
-Lundi 27/11/2023;01h30;13h30;15h00;Algebre S3;G 110 (80*-TB-V) Bat. Allais;MILLER Luc;4E3MF303;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
-Lundi 27/11/2023;02h00;13h30;15h30;G02 - Introduction BD;BFC 222 (35*) Bat. Formation Continue;ANANI Thibault;4E3MF302;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
+Lundi 27/11/2023;01h30;13h30;15h00;Algèbre S3;G 110 (80*-TB-V) Bat. Allais;MILLER Luc;4E3MF303;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
+Lundi 27/11/2023;02h00;13h30;15h30;G02 - Introduction BD;BFC 222 (35*) Bat. Formation Continue;ANANI Thibault;4E3MF302;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
 Lundi 27/11/2023;02h00;13h30;15h30;G03 - Introduction BD;G 213C (30*-TB) Bat. Allais;NAFI Mohammed;4E3MF302;TD;TD08 - MIASHS parcours MIAGE
-Lundi 27/11/2023;02h00;15h40;17h40;Analyse et Probas S3;G AMPHI D (180*) Bat. Allais;ROBERTO Cyril;4E3MF301;CM;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths, TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique
+Lundi 27/11/2023;02h00;15h40;17h40;Analyse et Probas S3;G AMPHI D (180*) Bat. Allais;ROBERTO Cyril;4E3MF301;CM;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths, TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique
 Mardi 28/11/2023;01h30;10h10;11h40;G03 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;BOUQUET Valentin;4E3MF304;TD;TD08 - MIASHS parcours MIAGE
 Mardi 28/11/2023;02h00;10h40;12h40;G04 - Analyse et Probas S3;G 412 (40*-TB-V) Bat. Allais;BARRET Florent;4E3MF301;TD;
-Mardi 28/11/2023;01h30;11h10;12h40;G01 - Algebre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres
-Mardi 28/11/2023;02h00;11h10;13h10;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL economie-Maths
+Mardi 28/11/2023;01h30;11h10;12h40;G01 - Algèbre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquées) + Bessières
+Mardi 28/11/2023;02h00;11h10;13h10;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL Économie-Maths
 Mardi 28/11/2023;01h30;11h50;13h20;G03 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;BOUQUET Valentin;4E3MF304;TD;TD08 - MIASHS parcours MIAGE
-Mardi 28/11/2023;02h00;13h30;15h30;G01 - Analyse et Probas S3;G 310A (35*-TB-V) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD10 - DL Gestion-Informatique
-Mardi 28/11/2023;01h30;15h40;17h10;G02 - Algebre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL economie-Maths
-Mercredi 29/11/2023;01h30;11h10;12h40;G02 - Algebre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL economie-Maths
+Mardi 28/11/2023;02h00;13h30;15h30;G01 - Analyse et Probas S3;G 310A (35*-TB-V) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD10 - DL Gestion-Informatique
+Mardi 28/11/2023;01h30;15h40;17h10;G02 - Algèbre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL Économie-Maths
+Mercredi 29/11/2023;01h30;11h10;12h40;G02 - Algèbre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL Économie-Maths
 Jeudi 30/11/2023;01h30;10h40;12h10;Introduction BD;G AMPHI E (180*) Bat. Allais;KMIMECH Hichem;4E3MF302;CM;OG3 MIASHS
-Jeudi 30/11/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;N 16 (36*) Bat. Ephemere 2;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
-Jeudi 30/11/2023;02h00;13h30;15h30;G01 - Introduction BD;G 213C (30*-TB) Bat. Allais;KMIMECH Hichem;4E3MF302;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
+Jeudi 30/11/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;N 16 (36*) Bat. Ephémère 2;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
+Jeudi 30/11/2023;02h00;13h30;15h30;G01 - Introduction BD;G 213C (30*-TB) Bat. Allais;KMIMECH Hichem;4E3MF302;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
 Jeudi 30/11/2023;02h00;15h40;17h40;G04 - Analyse et Probas S3;G 207 (25*-TB) Bat. Allais;BARRET Florent;4E3MF301;TD;
-Vendredi 01/12/2023;02h00;10h40;12h40;Algorithmique et programmation S3;G AMPHI D (180*) Bat. Allais;DELBOT Francois;4E3MF304;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
+Vendredi 01/12/2023;02h00;10h40;12h40;Algorithmique et programmation S3;G AMPHI D (180*) Bat. Allais;DELBOT Francois;4E3MF304;CM;TD08 - MIASHS parcours MIAGE, TD09 - MIASHS parcours MIAGE, TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
 Vendredi 01/12/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;G 409 (30*-TB-V) Bat. Allais;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
-Vendredi 01/12/2023;01h30;14h00;15h30;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
-Vendredi 01/12/2023;01h30;15h40;17h10;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
+Vendredi 01/12/2023;01h30;14h00;15h30;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
+Vendredi 01/12/2023;01h30;15h40;17h10;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
 Lundi 04/12/2023;02h00;13h30;15h30;G03 - Introduction BD;G 213C (30*-TB) Bat. Allais;NAFI Mohammed;4E3MF302;TD;TD08 - MIASHS parcours MIAGE
-Lundi 11/12/2023;02h00;08h30;10h30;G01 - Analyse et Probas S3;G 512 (45*-TB) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD10 - DL Gestion-Informatique
+Lundi 11/12/2023;02h00;08h30;10h30;G01 - Analyse et Probas S3;G 512 (45*-TB) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD10 - DL Gestion-Informatique
 Lundi 11/12/2023;01h30;10h40;12h10;G04 - Algorithmique et programmation S3;G 214 (20*-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MF304;TD;
-Lundi 11/12/2023;01h30;10h40;12h10;G01 - Algebre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres
-Lundi 11/12/2023;02h00;10h40;12h40;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL economie-Maths
+Lundi 11/12/2023;01h30;10h40;12h10;G01 - Algèbre S3;G 512 (45*-TB) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquées) + Bessières
+Lundi 11/12/2023;02h00;10h40;12h40;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL Économie-Maths
 Lundi 11/12/2023;01h30;12h20;13h50;G04 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;PRADAT-PEYRE Jean-Francois;4E3MF304;TD;
-Lundi 11/12/2023;02h00;13h30;15h30;G02 - Introduction BD;G 213A (35*-TB-V) Bat. Allais;ANANI Thibault;4E3MF302;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
+Lundi 11/12/2023;02h00;13h30;15h30;G02 - Introduction BD;G 213A (35*-TB-V) Bat. Allais;ANANI Thibault;4E3MF302;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
 Lundi 11/12/2023;02h00;13h30;15h30;G03 - Introduction BD;G 213C (30*-TB) Bat. Allais;NAFI Mohammed;4E3MF302;TD;TD08 - MIASHS parcours MIAGE
 Mardi 12/12/2023;01h30;10h10;11h40;G03 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;BOUQUET Valentin;4E3MF304;TD;TD08 - MIASHS parcours MIAGE
 Mardi 12/12/2023;02h00;10h40;12h40;G04 - Analyse et Probas S3;G 413A (45*-TB-V) Bat. Allais;BARRET Florent;4E3MF301;TD;
-Mardi 12/12/2023;01h30;11h10;12h40;G01 - Algebre S3;G 412 (40*-TB-V) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres
-Mardi 12/12/2023;02h00;11h10;13h10;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL economie-Maths
+Mardi 12/12/2023;01h30;11h10;12h40;G01 - Algèbre S3;G 412 (40*-TB-V) Bat. Allais;MILLER Luc;4E3MF303;TD;TD06 - MIASHS (Maths Appliquées) + Bessières
+Mardi 12/12/2023;02h00;11h10;13h10;G02 - Analyse et Probas S3;G 205 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF301;TD;TD07 - DL Économie-Maths
 Mardi 12/12/2023;01h30;11h50;13h20;G03 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;BOUQUET Valentin;4E3MF304;TD;TD08 - MIASHS parcours MIAGE
-Mardi 12/12/2023;02h00;13h30;15h30;G01 - Analyse et Probas S3;G 109 (30*-TB-V) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD10 - DL Gestion-Informatique
-Mardi 12/12/2023;01h30;15h40;17h10;G02 - Algebre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL economie-Maths
-Mercredi 13/12/2023;01h30;11h10;12h40;G02 - Algebre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL economie-Maths
+Mardi 12/12/2023;02h00;13h30;15h30;G01 - Analyse et Probas S3;G 109 (30*-TB-V) Bat. Allais;ESSIFI Rim;4E3MF301;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD10 - DL Gestion-Informatique
+Mardi 12/12/2023;01h30;15h40;17h10;G02 - Algèbre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL Économie-Maths
+Mercredi 13/12/2023;01h30;11h10;12h40;G02 - Algèbre S3;G 204 (25*-TB-V) Bat. Allais;XIAO Yijun;4E3MF303;TD;TD07 - DL Économie-Maths
 Jeudi 14/12/2023;01h30;10h40;12h10;Introduction BD;G AMPHI E (180*) Bat. Allais;KMIMECH Hichem;4E3MF302;CM;OG3 MIASHS
-Jeudi 14/12/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;N 16 (36*) Bat. Ephemere 2;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
-Jeudi 14/12/2023;02h00;13h30;15h30;G01 - Introduction BD;G 213C (30*-TB) Bat. Allais;KMIMECH Hichem;4E3MF302;TD;TD06 - MIASHS (Maths Appliquees) + Bessieres, TD07 - DL economie-Maths
+Jeudi 14/12/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;N 16 (36*) Bat. Ephémère 2;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
+Jeudi 14/12/2023;02h00;13h30;15h30;G01 - Introduction BD;G 213C (30*-TB) Bat. Allais;KMIMECH Hichem;4E3MF302;TD;TD06 - MIASHS (Maths Appliquées) + Bessières, TD07 - DL Économie-Maths
 Jeudi 14/12/2023;02h00;15h40;17h40;G04 - Analyse et Probas S3;G 207 (25*-TB) Bat. Allais;BARRET Florent;4E3MF301;TD;
 Vendredi 15/12/2023;02h00;13h30;15h30;G03 - Analyse et Probas S3;G 409 (30*-TB-V) Bat. Allais;ROBERTO Cyril;4E3MF301;TD;TD08 - MIASHS parcours MIAGE
-Vendredi 15/12/2023;01h30;14h00;15h30;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
-Vendredi 15/12/2023;01h30;15h40;17h10;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - economie-Gestion CMI
+Vendredi 15/12/2023;01h30;14h00;15h30;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
+Vendredi 15/12/2023;01h30;15h40;17h10;G05 - Algorithmique et programmation S3;G 201 (30*-LINUX-TB-V) Bat. Allais;DELBOT Francois;4E3MF304;TD;TD10 - DL Gestion-Informatique, TD11 - Économie-Gestion CMI
+Lundi 04/09/2023;02h30;10h00;12h30;Comportement du consommateur S5;G 110 (80*-TB-V) Bat. Allais;ISOARD Thierry Michel;4E5M511I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA
+Mardi 05/09/2023;02h30;08h30;11h00;Programmation orientée objet S5;G AMPHI G (180*) Bat. Allais;BRAIKI Khaoula;4E5M510I;CM;TD03 - DL Info-Gestion, TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - CMI
+Mardi 05/09/2023;02h30;15h10;17h40;Langage et sécurité des bases de données S5;G AMPHI D (180*) Bat. Allais;ANGARITA AROCHA Rafael;4E5M506I;CM;TD03 - DL Info-Gestion, TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA
+Mercredi 06/09/2023;02h30;17h20;19h50;Algorithmique et programmation S5;G AMPHI D (180*) Bat. Allais;HYON Emmanuel;4E5M508I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - DL Info-Gestion, TD03 - CMI
+Lundi 11/09/2023;02h30;08h30;11h00;G02 - Programmation orientée objet S5;G 213A (35*-TB-V) Bat. Allais;BRAIKI Khaoula;4E5M510I;TD;TD03 - DL Info-Gestion
+Lundi 11/09/2023;02h30;10h40;13h10;G01 - Comportement du consommateur S5;G 301/302 (50*-TB-V) Bat. Allais;ISOARD Thierry Michel;4E5M511I;TD;TD2 - L3 MIAGE CLA, TD1 - L3 MIAGE CLA
+Mardi 12/09/2023;02h00;08h30;10h30;Programmation orientée objet S5;G AMPHI B (475*) Bat. Allais;BRAIKI Khaoula;4E5M510I;CM;TD03 - DL Info-Gestion, TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - CMI
+Mardi 12/09/2023;02h00;10h40;12h40;Comportement du consommateur S5;G AMPHI F (180*) Bat. Allais;ISOARD Thierry Michel;4E5M511I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA
+Mardi 12/09/2023;02h30;11h00;13h30;G02 - Algorithmique et programmation S5;G 213B (22*-TB) Bat. Allais;ANGARITA AROCHA Rafael;4E5M508I;TD;TD03 - CMI
+Mardi 12/09/2023;02h00;15h50;17h50;Langage et sécurité des bases de données S5;SEGMI AMPHI - création planning;ANGARITA AROCHA Rafael;4E5M506I;CM;TD03 - DL Info-Gestion, TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA
+Mardi 12/09/2023;02h10;18h00;20h10;G01 - Langage et sécurité des bases de données S5;G 213B (22*-TB) Bat. Allais;ANGARITA AROCHA Rafael;4E5M506I;TD;TD03 - DL Info-Gestion
+Mercredi 13/09/2023;02h00;08h30;10h30;G01 - Programmation orientée objet S5;G 214 (20*-TB-V) Bat. Allais;BRAIKI Khaoula;4E5M510I;TD;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - CMI
+Mercredi 13/09/2023;02h30;10h40;13h10;G01 - Algorithmique et programmation S5;G 213A (35*-TB-V) Bat. Allais;HYON Emmanuel;4E5M508I;TD;TD1 - L3 MIAGE CLA, TD03 - DL Info-Gestion, TD2 - L3 MIAGE CLA
+Mercredi 13/09/2023;02h30;15h10;17h40;G02 - Langage et sécurité des bases de données S5;G 213C (30*-TB) Bat. Allais;ANGARITA AROCHA Rafael;4E5M506I;TD;TD2 - L3 MIAGE CLA, TD1 - L3 MIAGE CLA
+Mercredi 13/09/2023;02h00;17h50;19h50;Algorithmique et programmation S5;G AMPHI D (180*) Bat. Allais;HYON Emmanuel;4E5M508I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - DL Info-Gestion, TD03 - CMI
+Lundi 18/09/2023;02h00;10h40;12h40;G01 - Comportement du consommateur S5;G 301/302 (50*-TB-V) Bat. Allais;ISOARD Thierry Michel;4E5M511I;TD;TD2 - L3 MIAGE CLA, TD1 - L3 MIAGE CLA
+Mardi 19/09/2023;02h00;08h30;10h30;Programmation orientée objet S5;G AMPHI G (180*) Bat. Allais;BRAIKI Khaoula;4E5M510I;CM;TD03 - DL Info-Gestion, TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - CMI
+Mardi 19/09/2023;02h00;10h40;12h40;G02 - Algorithmique et programmation S5;G 213B (22*-TB) Bat. Allais;ANGARITA AROCHA Rafael;4E5M508I;TD;TD03 - CMI
+Mardi 19/09/2023;02h00;10h40;12h40;Comportement du consommateur S5;G AMPHI F (180*) Bat. Allais;ISOARD Thierry Michel;4E5M511I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA
+Mardi 19/09/2023;02h00;15h40;17h40;Langage et sécurité des bases de données S5;G AMPHI D (180*) Bat. Allais;ANGARITA AROCHA Rafael;4E5M506I;CM;TD03 - DL Info-Gestion, TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA
+Mardi 19/09/2023;02h10;18h00;20h10;G01 - Langage et sécurité des bases de données S5;G 214 (20*-TB-V) Bat. Allais;ANGARITA AROCHA Rafael;4E5M506I;TD;TD03 - DL Info-Gestion
+Mercredi 20/09/2023;02h00;08h30;10h30;G01 - Programmation orientée objet S5;G 214 (20*-TB-V) Bat. Allais;BRAIKI Khaoula;4E5M510I;TD;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - CMI
+Mercredi 20/09/2023;02h00;10h40;12h40;G01 - Algorithmique et programmation S5;G 213A (35*-TB-V) Bat. Allais;HYON Emmanuel;4E5M508I;TD;TD1 - L3 MIAGE CLA, TD03 - DL Info-Gestion, TD2 - L3 MIAGE CLA
+Mercredi 20/09/2023;02h00;15h40;17h40;G02 - Langage et sécurité des bases de données S5;G 213B (22*-TB) Bat. Allais;ANGARITA AROCHA Rafael;4E5M506I;TD;TD2 - L3 MIAGE CLA, TD1 - L3 MIAGE CLA
+Mercredi 20/09/2023;02h00;17h50;19h50;Algorithmique et programmation S5;G AMPHI D (180*) Bat. Allais;HYON Emmanuel;4E5M508I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - DL Info-Gestion, TD03 - CMI
+Lundi 25/09/2023;02h00;08h30;10h30;G02 - Programmation orientée objet S5;G 213A (35*-TB-V) Bat. Allais;BRAIKI Khaoula;4E5M510I;TD;TD03 - DL Info-Gestion
+Lundi 25/09/2023;02h00;10h40;12h40;G01 - Comportement du consommateur S5;G 301/302 (50*-TB-V) Bat. Allais;ISOARD Thierry Michel;4E5M511I;TD;TD2 - L3 MIAGE CLA, TD1 - L3 MIAGE CLA
+Mardi 26/09/2023;02h00;08h30;10h30;Programmation orientée objet S5;G AMPHI G (180*) Bat. Allais;BRAIKI Khaoula;4E5M510I;CM;TD03 - DL Info-Gestion, TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - CMI
+Mardi 26/09/2023;02h00;10h40;12h40;G02 - Algorithmique et programmation S5;G 213B (22*-TB) Bat. Allais;ANGARITA AROCHA Rafael;4E5M508I;TD;TD03 - CMI
+Mardi 26/09/2023;02h00;10h40;12h40;Comportement du consommateur S5;G AMPHI F (180*) Bat. Allais;ISOARD Thierry Michel;4E5M511I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA
+Mardi 26/09/2023;02h00;15h40;17h40;Langage et sécurité des bases de données S5;G AMPHI D (180*) Bat. Allais;ANGARITA AROCHA Rafael;4E5M506I;CM;TD03 - DL Info-Gestion, TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA
+Mardi 26/09/2023;02h10;18h00;20h10;G01 - Langage et sécurité des bases de données S5;G 213C (30*-TB) Bat. Allais;ANGARITA AROCHA Rafael;4E5M506I;TD;TD03 - DL Info-Gestion
+Mercredi 27/09/2023;02h00;08h30;10h30;G01 - Programmation orientée objet S5;G 214 (20*-TB-V) Bat. Allais;BRAIKI Khaoula;4E5M510I;TD;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - CMI
+Mercredi 27/09/2023;02h00;10h40;12h40;G01 - Algorithmique et programmation S5;G 213A (35*-TB-V) Bat. Allais;HYON Emmanuel;4E5M508I;TD;TD1 - L3 MIAGE CLA, TD03 - DL Info-Gestion, TD2 - L3 MIAGE CLA
+Mercredi 27/09/2023;02h00;15h40;17h40;G02 - Langage et sécurité des bases de données S5;G 213B (22*-TB) Bat. Allais;ANGARITA AROCHA Rafael;4E5M506I;TD;TD2 - L3 MIAGE CLA, TD1 - L3 MIAGE CLA
+Mercredi 27/09/2023;02h00;17h50;19h50;Algorithmique et programmation S5;G AMPHI D (180*) Bat. Allais;HYON Emmanuel;4E5M508I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - DL Info-Gestion, TD03 - CMI
+Lundi 02/10/2023;02h00;08h30;10h30;G02 - Programmation orientée objet S5;G 213B (22*-TB) Bat. Allais;BRAIKI Khaoula;4E5M510I;TD;TD03 - DL Info-Gestion
+Lundi 02/10/2023;02h00;10h40;12h40;G01 - Comportement du consommateur S5;G 301/302 (50*-TB-V) Bat. Allais;ISOARD Thierry Michel;4E5M511I;TD;TD2 - L3 MIAGE CLA, TD1 - L3 MIAGE CLA
+Mardi 03/10/2023;02h00;08h30;10h30;Programmation orientée objet S5;G AMPHI G (180*) Bat. Allais;BRAIKI Khaoula;4E5M510I;CM;TD03 - DL Info-Gestion, TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - CMI
+Mardi 03/10/2023;02h00;10h40;12h40;G02 - Algorithmique et programmation S5;G 213B (22*-TB) Bat. Allais;ANGARITA AROCHA Rafael;4E5M508I;TD;TD03 - CMI
+Mardi 03/10/2023;02h00;10h40;12h40;Comportement du consommateur S5;G AMPHI F (180*) Bat. Allais;ISOARD Thierry Michel;4E5M511I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA
+Mardi 03/10/2023;02h00;15h40;17h40;Langage et sécurité des bases de données S5;G AMPHI D (180*) Bat. Allais;ANGARITA AROCHA Rafael;4E5M506I;CM;TD03 - DL Info-Gestion, TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA
+Mardi 03/10/2023;02h00;18h00;20h00;G01 - Langage et sécurité des bases de données S5;G 213A (35*-TB-V) Bat. Allais;ANGARITA AROCHA Rafael;4E5M506I;TD;TD03 - DL Info-Gestion
+Mercredi 04/10/2023;02h00;08h30;10h30;G01 - Programmation orientée objet S5;G 214 (20*-TB-V) Bat. Allais;BRAIKI Khaoula;4E5M510I;TD;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - CMI
+Mercredi 04/10/2023;02h00;10h40;12h40;G01 - Algorithmique et programmation S5;G 213A (35*-TB-V) Bat. Allais;HYON Emmanuel;4E5M508I;TD;TD1 - L3 MIAGE CLA, TD03 - DL Info-Gestion, TD2 - L3 MIAGE CLA
+Mercredi 04/10/2023;02h00;15h40;17h40;G02 - Langage et sécurité des bases de données S5;G 213B (22*-TB) Bat. Allais;ANGARITA AROCHA Rafael;4E5M506I;TD;TD2 - L3 MIAGE CLA, TD1 - L3 MIAGE CLA
+Mercredi 04/10/2023;02h00;17h50;19h50;Algorithmique et programmation S5;G AMPHI D (180*) Bat. Allais;HYON Emmanuel;4E5M508I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - DL Info-Gestion, TD03 - CMI
+Lundi 09/10/2023;02h00;08h30;10h30;G02 - Programmation orientée objet S5;G 213A (35*-TB-V) Bat. Allais;BRAIKI Khaoula;4E5M510I;TD;TD03 - DL Info-Gestion
+Lundi 09/10/2023;02h00;10h40;12h40;G01 - Comportement du consommateur S5;G 401/402 (60*-TB-V) Bat. Allais;ISOARD Thierry Michel;4E5M511I;TD;TD2 - L3 MIAGE CLA, TD1 - L3 MIAGE CLA
+Mardi 10/10/2023;02h00;08h30;10h30;Programmation orientée objet S5;G AMPHI G (180*) Bat. Allais;BRAIKI Khaoula;4E5M510I;CM;TD03 - DL Info-Gestion, TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - CMI
+Mardi 10/10/2023;02h00;10h40;12h40;Comportement du consommateur S5;G AMPHI F (180*) Bat. Allais;ISOARD Thierry Michel;4E5M511I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA
+Mardi 10/10/2023;02h00;15h40;17h40;Langage et sécurité des bases de données S5;G AMPHI D (180*) Bat. Allais;ANGARITA AROCHA Rafael;4E5M506I;CM;TD03 - DL Info-Gestion, TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA
+Mardi 10/10/2023;02h00;18h00;20h00;G01 - Langage et sécurité des bases de données S5;G 213C (30*-TB) Bat. Allais;ANGARITA AROCHA Rafael;4E5M506I;TD;TD03 - DL Info-Gestion
+Mercredi 11/10/2023;02h00;08h30;10h30;G01 - Programmation orientée objet S5;G 214 (20*-TB-V) Bat. Allais;BRAIKI Khaoula;4E5M510I;TD;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - CMI
+Mercredi 11/10/2023;02h00;10h40;12h40;G01 - Algorithmique et programmation S5;G 213A (35*-TB-V) Bat. Allais;HYON Emmanuel;4E5M508I;TD;TD1 - L3 MIAGE CLA, TD03 - DL Info-Gestion, TD2 - L3 MIAGE CLA
+Mercredi 11/10/2023;02h00;15h40;17h40;G02 - Langage et sécurité des bases de données S5;G 213B (22*-TB) Bat. Allais;ANGARITA AROCHA Rafael;4E5M506I;TD;TD2 - L3 MIAGE CLA, TD1 - L3 MIAGE CLA
+Mercredi 11/10/2023;02h00;17h50;19h50;Algorithmique et programmation S5;G AMPHI D (180*) Bat. Allais;HYON Emmanuel;4E5M508I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - DL Info-Gestion, TD03 - CMI
+Jeudi 12/10/2023;02h00;08h30;10h30;G02 - Algorithmique et programmation S5;G 213B (22*-TB) Bat. Allais;HYON Emmanuel;4E5M508I;TD;TD03 - CMI
+Lundi 16/10/2023;02h00;08h30;10h30;G02 - Programmation orientée objet S5;G 214 (20*-TB-V) Bat. Allais;BRAIKI Khaoula;4E5M510I;TD;TD03 - DL Info-Gestion
+Lundi 16/10/2023;02h00;10h40;12h40;G01 - Comportement du consommateur S5;G 401/402 (60*-TB-V) Bat. Allais;ISOARD Thierry Michel;4E5M511I;TD;TD2 - L3 MIAGE CLA, TD1 - L3 MIAGE CLA
+Mardi 17/10/2023;02h00;08h30;10h30;Programmation orientée objet S5;G AMPHI G (180*) Bat. Allais;BRAIKI Khaoula;4E5M510I;CM;TD03 - DL Info-Gestion, TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - CMI
+Mardi 17/10/2023;02h00;10h40;12h40;Comportement du consommateur S5;G AMPHI F (180*) Bat. Allais;ISOARD Thierry Michel;4E5M511I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA
+Mardi 17/10/2023;02h00;15h40;17h40;Langage et sécurité des bases de données S5;G AMPHI D (180*) Bat. Allais;ANGARITA AROCHA Rafael;4E5M506I;CM;TD03 - DL Info-Gestion, TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA
+Mardi 17/10/2023;02h00;18h00;20h00;G01 - Langage et sécurité des bases de données S5;G 213B (22*-TB) Bat. Allais;ANGARITA AROCHA Rafael;4E5M506I;TD;TD03 - DL Info-Gestion
+Mercredi 18/10/2023;02h00;08h30;10h30;G01 - Programmation orientée objet S5;G 214 (20*-TB-V) Bat. Allais;BRAIKI Khaoula;4E5M510I;TD;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - CMI
+Mercredi 18/10/2023;02h00;10h40;12h40;G01 - Algorithmique et programmation S5;G 213A (35*-TB-V) Bat. Allais;HYON Emmanuel;4E5M508I;TD;TD1 - L3 MIAGE CLA, TD03 - DL Info-Gestion, TD2 - L3 MIAGE CLA
+Mercredi 18/10/2023;02h00;15h40;17h40;G02 - Langage et sécurité des bases de données S5;G 213B (22*-TB) Bat. Allais;ANGARITA AROCHA Rafael;4E5M506I;TD;TD2 - L3 MIAGE CLA, TD1 - L3 MIAGE CLA
+Mercredi 18/10/2023;02h00;17h50;19h50;Algorithmique et programmation S5;G AMPHI D (180*) Bat. Allais;HYON Emmanuel;4E5M508I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - DL Info-Gestion, TD03 - CMI
+Lundi 23/10/2023;02h00;08h30;10h30;G02 - Programmation orientée objet S5;G 213A (35*-TB-V) Bat. Allais;BRAIKI Khaoula;4E5M510I;TD;TD03 - DL Info-Gestion
+Lundi 23/10/2023;02h00;10h40;12h40;G01 - Comportement du consommateur S5;G 301/302 (50*-TB-V) Bat. Allais;ISOARD Thierry Michel;4E5M511I;TD;TD2 - L3 MIAGE CLA, TD1 - L3 MIAGE CLA
+Mardi 24/10/2023;02h00;08h30;10h30;Programmation orientée objet S5;G AMPHI G (180*) Bat. Allais;BRAIKI Khaoula;4E5M510I;CM;TD03 - DL Info-Gestion, TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - CMI
+Mardi 24/10/2023;02h00;10h40;12h40;G02 - Algorithmique et programmation S5;G 213B (22*-TB) Bat. Allais;HYON Emmanuel;4E5M508I;TD;TD03 - CMI
+Mardi 24/10/2023;02h00;10h40;12h40;Comportement du consommateur S5;G AMPHI F (180*) Bat. Allais;ISOARD Thierry Michel;4E5M511I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA
+Mercredi 25/10/2023;02h00;08h30;10h30;G01 - Programmation orientée objet S5;G 214 (20*-TB-V) Bat. Allais;BRAIKI Khaoula;4E5M510I;TD;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - CMI
+Mercredi 25/10/2023;02h00;10h40;12h40;G01 - Algorithmique et programmation S5;G 213A (35*-TB-V) Bat. Allais;HYON Emmanuel;4E5M508I;TD;TD1 - L3 MIAGE CLA, TD03 - DL Info-Gestion, TD2 - L3 MIAGE CLA
+Mercredi 25/10/2023;03h00;13h40;16h40;Marketing digital S5;G 213B (22*-TB) Bat. Allais;MACONE Marie;4E5M512I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA
+Mercredi 25/10/2023;02h00;17h50;19h50;Algorithmique et programmation S5;G AMPHI D (180*) Bat. Allais;HYON Emmanuel;4E5M508I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - DL Info-Gestion, TD03 - CMI
+Lundi 06/11/2023;02h00;08h30;10h30;G02 - Programmation orientée objet S5;G 213B (22*-TB) Bat. Allais;BRAIKI Khaoula;4E5M510I;TD;TD03 - DL Info-Gestion
+Lundi 06/11/2023;02h00;10h40;12h40;G01 - Comportement du consommateur S5;G 401/402 (60*-TB-V) Bat. Allais;ISOARD Thierry Michel;4E5M511I;TD;TD2 - L3 MIAGE CLA, TD1 - L3 MIAGE CLA
+Mardi 07/11/2023;02h00;08h30;10h30;G02 - Algorithmique et programmation S5;G 213C (30*-TB) Bat. Allais;HYON Emmanuel;4E5M508I;TD;TD03 - CMI
+Mardi 07/11/2023;02h00;10h40;12h40;G02 - Algorithmique et programmation S5;G 213B (22*-TB) Bat. Allais;HYON Emmanuel;4E5M508I;TD;TD03 - CMI
+Mardi 07/11/2023;02h00;15h40;17h40;Introduction aux systèmes d'information S5;G AMPHI D (180*) Bat. Allais;ISOARD Thierry Michel;4E5M507I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - DL Info-Gestion
+Mercredi 08/11/2023;02h30;08h00;10h30;G01 - Programmation orientée objet S5;G 214 (20*-TB-V) Bat. Allais;BRAIKI Khaoula;4E5M510I;TD;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - CMI
+Mercredi 08/11/2023;02h00;10h40;12h40;G01 - Algorithmique et programmation S5;G 213A (35*-TB-V) Bat. Allais;HYON Emmanuel;4E5M508I;TD;TD1 - L3 MIAGE CLA, TD03 - DL Info-Gestion, TD2 - L3 MIAGE CLA
+Mercredi 08/11/2023;03h00;13h50;16h50;Marketing digital S5;G 213B (22*-TB) Bat. Allais;MACONE Marie;4E5M512I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA
+Mercredi 08/11/2023;02h00;17h00;19h00;Langage et sécurité des bases de données S5;G AMPHI D (180*) Bat. Allais;ANGARITA AROCHA Rafael;4E5M506I;CM;TD03 - DL Info-Gestion, TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA
+Mardi 14/11/2023;02h30;10h00;12h30;G01 - Communication écrite et orale S5;G 310A (35*-TB-V) Bat. Allais;GUEZOU Xavier;4E5M514I;TD;TD1 - L3 MIAGE CLA
+Mardi 14/11/2023;02h00;14h00;16h00;Introduction aux systèmes d'information S5;G AMPHI D (180*) Bat. Allais;ISOARD Thierry Michel;4E5M507I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - DL Info-Gestion
+Mardi 14/11/2023;02h00;16h10;18h10;G01 - Introduction aux systèmes d'information S5;G 512 (45*-TB) Bat. Allais;ISOARD Thierry Michel;4E5M507I;TD;TD1 - L3 MIAGE CLA, TD03 - DL Info-Gestion, TD2 - L3 MIAGE CLA
+Mercredi 15/11/2023;02h00;10h40;12h40;G01 - Communication écrite et orale S5;G 403 (35*-TB-V) Bat. Allais;GUEZOU Xavier;4E5M514I;TD;TD1 - L3 MIAGE CLA
+Mercredi 15/11/2023;02h00;14h00;16h00;Introduction aux systèmes d'information S5;N 02 (55*) Bat. Ephémère 2;ISOARD Thierry Michel;4E5M507I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - DL Info-Gestion
+Mercredi 15/11/2023;02h00;16h10;18h10;G01 - Introduction aux systèmes d'information S5;G 110 (80*-TB-V) Bat. Allais;ISOARD Thierry Michel;4E5M507I;TD;TD1 - L3 MIAGE CLA, TD03 - DL Info-Gestion, TD2 - L3 MIAGE CLA
+Mardi 21/11/2023;02h00;10h00;12h00;G01 - Communication écrite et orale S5;G 105 (30*-TB) Bat. Allais;GUEZOU Xavier;4E5M514I;TD;TD1 - L3 MIAGE CLA
+Mardi 21/11/2023;02h00;14h00;16h00;Introduction aux systèmes d'information S5;G AMPHI G (180*) Bat. Allais;ISOARD Thierry Michel;4E5M507I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - DL Info-Gestion
+Mardi 21/11/2023;02h00;16h10;18h10;G01 - Introduction aux systèmes d'information S5;G 401/402 (60*-TB-V) Bat. Allais;ISOARD Thierry Michel;4E5M507I;TD;TD1 - L3 MIAGE CLA, TD03 - DL Info-Gestion, TD2 - L3 MIAGE CLA
+Mercredi 22/11/2023;02h00;10h00;12h00;G01 - Communication écrite et orale S5;G 413B (45*-TB-V) Bat. Allais;GUEZOU Xavier;4E5M514I;TD;TD1 - L3 MIAGE CLA
+Mercredi 22/11/2023;02h00;13h00;15h00;Introduction aux systèmes d'information S5;G AMPHI F (180*) Bat. Allais;ISOARD Thierry Michel;4E5M507I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - DL Info-Gestion
+Mercredi 22/11/2023;02h00;15h10;17h10;G01 - Introduction aux systèmes d'information S5;G 104 (30*-TB-V) Bat. Allais;ISOARD Thierry Michel;4E5M507I;TD;TD1 - L3 MIAGE CLA, TD03 - DL Info-Gestion, TD2 - L3 MIAGE CLA
+Mercredi 22/11/2023;02h00;17h20;19h20;G02 - Langage et sécurité des bases de données S5;G 213A (35*-TB-V) Bat. Allais;ANGARITA AROCHA Rafael;4E5M506I;TD;TD2 - L3 MIAGE CLA, TD1 - L3 MIAGE CLA, TD03 - DL Info-Gestion
+Lundi 27/11/2023;02h00;14h00;16h00;Introduction aux systèmes d'information S5;G 301/302 (50*-TB-V) Bat. Allais;ISOARD Thierry Michel;4E5M507I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - DL Info-Gestion
+Lundi 27/11/2023;02h00;16h10;18h10;G01 - Introduction aux systèmes d'information S5;G 503 (40*-TB-V) Bat. Allais;ISOARD Thierry Michel;4E5M507I;TD;TD1 - L3 MIAGE CLA, TD03 - DL Info-Gestion, TD2 - L3 MIAGE CLA
+Mardi 28/11/2023;02h00;10h00;12h00;G01 - Communication écrite et orale S5;G 310A (35*-TB-V) Bat. Allais;GUEZOU Xavier;4E5M514I;TD;TD1 - L3 MIAGE CLA
+Mardi 28/11/2023;02h30;13h30;16h00;Introduction aux systèmes d'information S5;G 101/102 (55*-TB-V) Bat. Allais;ISOARD Thierry Michel;4E5M507I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - DL Info-Gestion
+Mardi 28/11/2023;02h00;16h10;18h10;G01 - Introduction aux systèmes d'information S5;G 512 (45*-TB) Bat. Allais;ISOARD Thierry Michel;4E5M507I;TD;TD1 - L3 MIAGE CLA, TD03 - DL Info-Gestion, TD2 - L3 MIAGE CLA
+Mercredi 29/11/2023;02h00;09h00;11h00;G02 - Langage et sécurité des bases de données S5;G 201 (30*-LINUX-TB-V) Bat. Allais;ANGARITA AROCHA Rafael;4E5M506I;TD;TD2 - L3 MIAGE CLA, TD1 - L3 MIAGE CLA, TD03 - DL Info-Gestion
+Mercredi 29/11/2023;02h00;11h10;13h10;G01 - Communication écrite et orale S5;G 403 (35*-TB-V) Bat. Allais;GUEZOU Xavier;4E5M514I;TD;TD1 - L3 MIAGE CLA
+Mercredi 29/11/2023;02h00;14h00;16h00;Introduction aux systèmes d'information S5;G 301/302 (50*-TB-V) Bat. Allais;ISOARD Thierry Michel;4E5M507I;CM;TD1 - L3 MIAGE CLA, TD2 - L3 MIAGE CLA, TD03 - DL Info-Gestion
+Mercredi 29/11/2023;02h00;16h10;18h10;G01 - Introduction aux systèmes d'information S5;G 301/302 (50*-TB-V) Bat. Allais;ISOARD Thierry Michel;4E5M507I;TD;TD1 - L3 MIAGE CLA, TD03 - DL Info-Gestion, TD2 - L3 MIAGE CLA
+Mardi 05/12/2023;02h30;14h00;16h30;G01 - Introduction aux systèmes d'information S5;G 301/302 (50*-TB-V) Bat. Allais;ISOARD Thierry Michel;4E5M507I;TD;TD1 - L3 MIAGE CLA, TD03 - DL Info-Gestion, TD2 - L3 MIAGE CLA
